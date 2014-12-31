@@ -12,14 +12,19 @@
 */
 
 
+Route::get('/welcome', function () {
+    return view('welcome');
+});
+
 Route::get('/', function () {
     return view('index');
 });
+
 Route::get('/about', function () {
     return view('about');
 });
 Route::get('/eo', function () {
-    return view('eo/');
+    return view('eo');
 });
 Route::get('/schedule', function () {
     return view('schedule');
@@ -35,6 +40,16 @@ Route::get('/eo_home', function () {
     return view('eo/eo_home');
 });
 
-/*Route::post('/customers', 'CustomersController@index');*/
+Route::get('/eo_base', function () {
+    return view('eo/eo_base');
+});
+
+Route::get('/user_home', function () {
+    return view('/user/home/base');
+});
 
 Route::resource('/bayar', 'CustomersController');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
