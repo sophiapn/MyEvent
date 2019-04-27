@@ -33,7 +33,7 @@
                 <nav class="classy-navbar justify-content-between" id="conferNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand" href=""><img src="assets/img/core-img/logo.png" alt=""></a>
+                    <a class="nav-brand" href="/"><img src="assets/img/core-img/logo.png" alt=""></a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler">
@@ -49,15 +49,15 @@
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul id="nav">
-                                <li class="active"><a href="">Home</a></li>
+                                <li class="active"><a href="/">Home</a></li>
                                 <li><a href="#">Pages</a>
                                     <ul class="dropdown">
-                                        <li><a href="">- Home</a></li>
+                                        <li><a href="/">- Home</a></li>
                                         <li><a href="about">- About Us</a></li>
-                                        <li><a href="speaker">- Speakears</a></li>
+                                        <li><a href="eo">- Event Organizer</a></li>
                                         <li><a href="schedule">- Schedule</a></li>
                                         <li><a href="ticket">- Tickets</a></li>
-                                        <li><a href="blog">- Blog</a></li>
+                                        <li><a href="event">- Event</a></li>
                                         <li><a href="single-blog">- Single Blog</a></li>
                                         <li><a href="contact">- Contact</a></li>
                                         <li><a href="#">- Dropdown</a>
@@ -70,8 +70,8 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li><a href="speaker">Speakears</a></li>
-                                <li><a href="blog">Blog</a></li>
+                                <li><a href="eo">Event Organizer</a></li>
+                                <li><a href="event">Event</a></li>
                                 <li><a href="contact">Contact</a></li>
                             </ul>
 
@@ -96,8 +96,8 @@
                         <!-- Welcome Text -->
                         <div class="col-12">
                             <div class="welcome-text text-right">
-                                <h2 data-animation="fadeInUp" data-delay="300ms">Science <br>Conference</h2>
-                                <h6 data-animation="fadeInUp" data-delay="500ms">Shangri-La Hotel, Bangkok, Bangkok, Thailand</h6>
+                                <h2 data-animation="fadeInUp" data-delay="300ms">Conference <br>Event</h2>
+                                <h6 data-animation="fadeInUp" data-delay="500ms">Menyediakan Informasi Event Indonesia</h6>
                                 <div class="hero-btn-group" data-animation="fadeInUp" data-delay="700ms">
                                     <a href="#" class="btn confer-btn">More Information <i class="zmdi zmdi-long-arrow-right"></i></a>
                                 </div>
@@ -144,9 +144,9 @@
                 <!-- About Content -->
                 <div class="col-12 col-md-6">
                     <div class="about-content-text mb-80">
-                        <h6 class="wow fadeInUp" data-wow-delay="300ms">About Conference</h6>
-                        <h3 class="wow fadeInUp" data-wow-delay="300ms">Welcome to the Project Management</h3>
-                        <p class="wow fadeInUp" data-wow-delay="300ms">The Project Management is a platform to learn expert techniques for building successful project teams, creating efficient plans and implementing effective tracking measures to ensure your projects come in on deadline and on budget. In one fast-paced, well-designed day, we’ll cover all the essential elements of project management.</p>
+                        <h6 class="wow fadeInUp" data-wow-delay="300ms">About Event Organizer</h6>
+                        <h3 class="wow fadeInUp" data-wow-delay="300ms">Welcome to the Event</h3>
+                        <p class="wow fadeInUp" data-wow-delay="300ms">Event Organizer adalah pengelola suatu kegiatan (Pengorganisir Acara). Setiap kegiatan yang di selenggarakan bertujuan untuk memperoleh keuntungan di kedua belah pihak, baik penyelenggara maupun yang hadir pada saat kegiatan berlangsung.</p>
                         <a href="#" class="btn confer-btn mt-50 wow fadeInUp" data-wow-delay="300ms">Interested <i class="zmdi zmdi-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -190,8 +190,8 @@
                 <!-- Heading -->
                 <div class="col-12">
                     <div class="section-heading text-center wow fadeInUp" data-wow-delay="300ms">
-                        <p>Our Speakings</p>
-                        <h4>Who’s speaking</h4>
+                        <p>Our EO</p>
+                        <h4>Who’s organizing</h4>
                     </div>
                 </div>
             </div>
@@ -331,7 +331,7 @@
 
                 <div class="col-12">
                     <div class="more-speaker-btn text-center mt-20 mb-40 wow fadeInUp" data-wow-delay="300ms">
-                        <a class="btn confer-btn-white" href="#">view all Speaker <i class="zmdi zmdi-long-arrow-right"></i></a>
+                        <a class="btn confer-btn-white" href="#">view all EO <i class="zmdi zmdi-long-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -346,8 +346,8 @@
                 <!-- Heading -->
                 <div class="col-12">
                     <div class="section-heading-2 text-center wow fadeInUp" data-wow-delay="300ms">
-                        <p>Our Timetable</p>
-                        <h4>Schedule Plan</h4>
+                        <p>Our Event</p>
+                        <h4>Schedule Event</h4>
                     </div>
                 </div>
             </div>
@@ -651,7 +651,7 @@
                 <!-- Single Ticket Pricing Table -->
                 <div class="col-12 col-lg-4">
                     <div class="single-ticket-pricing-table text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                        <h6 class="ticket-plan">1 day pass</h6>
+                        <h6 class="ticket-plan">Regular</h6>
                         <!-- Ticket Icon -->
                         <div class="ticket-icon">
                             <img src="assets/img/core-img/p1.png" alt="">
@@ -693,7 +693,7 @@
                 <!-- Single Ticket Pricing Table -->
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-ticket-pricing-table text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                        <h6 class="ticket-plan">Group pass</h6>
+                        <h6 class="ticket-plan">VIP</h6>
                         <!-- Ticket Icon -->
                         <div class="ticket-icon">
                             <img src="assets/img/core-img/p3.png" alt="">
@@ -776,7 +776,7 @@
                             <div class="single-client-content">
                                 <!-- Single client Text -->
                                 <div class="single-client-text">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+                                    <p>Jir lah</p>
                                     <!-- Single client Thumb and info -->
                                     <div class="single-client-thumb-info d-flex align-items-center">
                                         <!-- Single client Thumb -->
@@ -800,7 +800,7 @@
                             <div class="single-client-content">
                                 <!-- Single client Text -->
                                 <div class="single-client-text">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+                                    <p>Teuing eusina naon</p>
                                     <!-- Single client Thumb and info -->
                                     <div class="single-client-thumb-info d-flex align-items-center">
                                         <!-- Single client Thumb -->
@@ -824,7 +824,7 @@
                             <div class="single-client-content">
                                 <!-- Single client Text -->
                                 <div class="single-client-text">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+                                    <p>Zzzzzzzzz</p>
                                     <!-- Single client Thumb and info -->
                                     <div class="single-client-thumb-info d-flex align-items-center">
                                         <!-- Single client Thumb -->
@@ -868,16 +868,16 @@
                     <div class="single-blog-area wow fadeInUp" data-wow-delay="300ms">
                         <!-- Single blog Thumb -->
                         <div class="single-blog-thumb">
-                            <img src="assets/img/bg-img/18.jpg" alt="">
+                            <img src="assets/img/bg-img/18.png" alt="">
                         </div>
                         <div class="single-blog-text text-center">
-                            <a class="blog-title" href="#">Street Food Convention</a>
+                            <a class="blog-title" href="#">Festival Karier SMK – April 2019﻿</a>
                             <!-- Post Meta -->
                             <div class="post-meta">
-                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i> January 14, 2019</a>
+                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i> 14 April 2019</a>
                                 <a class="post-author" href="#"><i class="zmdi zmdi-account"></i> Laura Green</a>
                             </div>
-                            <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
+                            <p>Memperingati Hari Pendidikan Nasional TopKarir</p>
                         </div>
                         <div class="blog-btn">
                             <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
@@ -893,13 +893,13 @@
                             <img src="assets/img/bg-img/19.jpg" alt="">
                         </div>
                         <div class="single-blog-text text-center">
-                            <a class="blog-title" href="#">Tedx Moscow Conference</a>
+                            <a class="blog-title" href="#">TERAA RUN10K Series JAKARTA I</a>
                             <!-- Post Meta -->
                             <div class="post-meta">
-                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>January 14, 2019</a>
+                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>07 Juli 2019</a>
                                 <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
                             </div>
-                            <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
+                            <p>Gerakan langkahmu, Pacu prestasimu</p>
                         </div>
                         <div class="blog-btn">
                             <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
@@ -912,16 +912,16 @@
                     <div class="single-blog-area wow fadeInUp" data-wow-delay="300ms">
                         <!-- Single blog Thumb -->
                         <div class="single-blog-thumb">
-                            <img src="assets/img/bg-img/20.jpg" alt="">
+                            <img src="assets/img/bg-img/20.png" alt="">
                         </div>
                         <div class="single-blog-text text-center">
-                            <a class="blog-title" href="#">Los Angeles Institute</a>
+                            <a class="blog-title" href="#">Lego Speed Building competition</a>
                             <!-- Post Meta -->
                             <div class="post-meta">
-                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>January 14, 2019</a>
+                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>04 Mei 2019</a>
                                 <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
                             </div>
-                            <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
+                            <p>Tunjukan robot kreatifmu dan dapatkan hadiah Sphero mini, lego dan piala</p>
                         </div>
                         <div class="blog-btn">
                             <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>

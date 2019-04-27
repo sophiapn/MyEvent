@@ -33,7 +33,7 @@
                 <nav class="classy-navbar justify-content-between" id="conferNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand" href=""><img src="assets/img/core-img/logo.png" alt=""></a>
+                    <a class="nav-brand" href="/"><img src="assets/img/core-img/logo.png" alt=""></a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler">
@@ -49,15 +49,15 @@
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul id="nav">
-                                <li class="active"><a href="">Home</a></li>
+                                <li class="active"><a href="/">Home</a></li>
                                 <li><a href="#">Pages</a>
                                     <ul class="dropdown">
-                                        <li><a href="">- Home</a></li>
+                                        <li><a href="/">- Home</a></li>
                                         <li><a href="about">- About Us</a></li>
-                                        <li><a href="speaker">- Speakears</a></li>
+                                        <li><a href="eo">- Event Organizer</a></li>
                                         <li><a href="schedule">- Schedule</a></li>
                                         <li><a href="ticket">- Tickets</a></li>
-                                        <li><a href="blog">- Blog</a></li>
+                                        <li><a href="event">- Event</a></li>
                                         <li><a href="single-blog">- Single Blog</a></li>
                                         <li><a href="contact">- Contact</a></li>
                                         <li><a href="#">- Dropdown</a>
@@ -70,8 +70,8 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li><a href="speaker">Speakears</a></li>
-                                <li><a href="blog">Blog</a></li>
+                                <li><a href="eo">Event Organizer</a></li>
+                                <li><a href="event">Event</a></li>
                                 <li><a href="contact">Contact</a></li>
                             </ul>
 
@@ -92,11 +92,11 @@
             <div class="row h-100 align-items-center">
                 <div class="col-12">
                     <div class="breadcrumb-content">
-                        <h2 class="page-title">Blog Gird</h2>
+                        <h2 class="page-title">Event</h2>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="">Home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">Blog</li>
+                                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">Event</li>
                             </ol>
                         </nav>
                     </div>
@@ -115,7 +115,7 @@
                     <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
                         <!-- Single blog Thumb -->
                         <div class="single-blog-thumb">
-                            <img src="assets/img/bg-img/18.jpg" alt="">
+                            <img src="assets/img/bg-img/18.png" alt="">
                         </div>
                         <div class="single-blog-text text-center">
                             <a class="blog-title" href="#">Street Food Convention</a>
@@ -159,16 +159,16 @@
                     <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
                         <!-- Single blog Thumb -->
                         <div class="single-blog-thumb">
-                            <img src="assets/img/bg-img/20.jpg" alt="">
+                            <img src="assets/img/bg-img/20.png" alt="">
                         </div>
                         <div class="single-blog-text text-center">
-                            <a class="blog-title" href="#">Los Angeles Institute</a>
+                            <a class="blog-title" href="#">Festival Karier SMK – April 2019﻿</a>
                             <!-- Post Meta -->
                             <div class="post-meta">
-                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>January 14, 2019</a>
+                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>14 April 2019</a>
                                 <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
                             </div>
-                            <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
+                            <p>Memperingati Hari Pendidikan Nasional TopKarir</p>
                         </div>
                         <div class="blog-btn">
                             <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
@@ -181,16 +181,16 @@
                     <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
                         <!-- Single blog Thumb -->
                         <div class="single-blog-thumb">
-                            <img src="assets/img/bg-img/18.jpg" alt="">
+                            <img src="assets/img/bg-img/18.png" alt="">
                         </div>
                         <div class="single-blog-text text-center">
-                            <a class="blog-title" href="#">Street Food Convention</a>
+                            <a class="blog-title" href="#">TERAA RUN10K Series JAKARTA I</a>
                             <!-- Post Meta -->
                             <div class="post-meta">
-                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i> January 14, 2019</a>
+                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>07 Juli 2019</a>
                                 <a class="post-author" href="#"><i class="zmdi zmdi-account"></i> Laura Green</a>
                             </div>
-                            <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
+                            <p>Gerakan langkahmu, Pacu prestasimu</p>
                         </div>
                         <div class="blog-btn">
                             <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
@@ -206,13 +206,13 @@
                             <img src="assets/img/bg-img/19.jpg" alt="">
                         </div>
                         <div class="single-blog-text text-center">
-                            <a class="blog-title" href="#">Tedx Moscow Conference</a>
+                            <a class="blog-title" href="#">Lego Speed Building competition</a>
                             <!-- Post Meta -->
                             <div class="post-meta">
-                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>January 14, 2019</a>
+                               <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>04 Mei 2019</a>
                                 <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
                             </div>
-                            <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
+                            <p>Tunjukan robot kreatifmu dan dapatkan hadiah Sphero mini, lego dan piala</p>
                         </div>
                         <div class="blog-btn">
                             <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
@@ -225,16 +225,16 @@
                     <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
                         <!-- Single blog Thumb -->
                         <div class="single-blog-thumb">
-                            <img src="assets/img/bg-img/20.jpg" alt="">
+                            <img src="assets/img/bg-img/20.png" alt="">
                         </div>
                         <div class="single-blog-text text-center">
-                            <a class="blog-title" href="#">Los Angeles Institute</a>
+                            <a class="blog-title" href="#">Festival Karier SMK – April 2019﻿</a>
                             <!-- Post Meta -->
                             <div class="post-meta">
-                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>January 14, 2019</a>
+                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>14 April 2019</a>
                                 <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
                             </div>
-                            <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
+                            <p>Memperingati Hari Pendidikan Nasional TopKarir</p>
                         </div>
                         <div class="blog-btn">
                             <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
@@ -247,16 +247,16 @@
                     <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
                         <!-- Single blog Thumb -->
                         <div class="single-blog-thumb">
-                            <img src="assets/img/bg-img/18.jpg" alt="">
+                            <img src="assets/img/bg-img/18.png" alt="">
                         </div>
                         <div class="single-blog-text text-center">
-                            <a class="blog-title" href="#">Street Food Convention</a>
+                            <a class="blog-title" href="#">Lego Speed Building competition</a>
                             <!-- Post Meta -->
                             <div class="post-meta">
-                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i> January 14, 2019</a>
-                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i> Laura Green</a>
+                               <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>04 Mei 2019</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
                             </div>
-                            <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
+                            <p>Tunjukan robot kreatifmu dan dapatkan hadiah Sphero mini, lego dan piala</p>
                         </div>
                         <div class="blog-btn">
                             <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
@@ -272,13 +272,13 @@
                             <img src="assets/img/bg-img/19.jpg" alt="">
                         </div>
                         <div class="single-blog-text text-center">
-                            <a class="blog-title" href="#">Tedx Moscow Conference</a>
+                            <a class="blog-title" href="#">TERAA RUN10K Series JAKARTA I</a>
                             <!-- Post Meta -->
                             <div class="post-meta">
-                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>January 14, 2019</a>
-                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
+                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>07 Juli 2019</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i> Laura Green</a>
                             </div>
-                            <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
+                            <p>Gerakan langkahmu, Pacu prestasimu</p>
                         </div>
                         <div class="blog-btn">
                             <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
@@ -291,7 +291,7 @@
                     <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
                         <!-- Single blog Thumb -->
                         <div class="single-blog-thumb">
-                            <img src="assets/img/bg-img/20.jpg" alt="">
+                            <img src="assets/img/bg-img/20.png" alt="">
                         </div>
                         <div class="single-blog-text text-center">
                             <a class="blog-title" href="#">Los Angeles Institute</a>

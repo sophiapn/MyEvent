@@ -33,7 +33,7 @@
                 <nav class="classy-navbar justify-content-between" id="conferNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand" href=""><img src="assets/img/core-img/logo.png" alt=""></a>
+                    <a class="nav-brand" href="/"><img src="assets/img/core-img/logo.png" alt=""></a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler">
@@ -49,15 +49,15 @@
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul id="nav">
-                                <li class="active"><a href="">Home</a></li>
+                                <li class="active"><a href="/">Home</a></li>
                                 <li><a href="#">Pages</a>
                                     <ul class="dropdown">
-                                        <li><a href="">- Home</a></li>
+                                        <li><a href="/">- Home</a></li>
                                         <li><a href="about">- About Us</a></li>
-                                        <li><a href="speaker">- Speakears</a></li>
+                                        <li><a href="eo">- Event Organizer</a></li>
                                         <li><a href="schedule">- Schedule</a></li>
                                         <li><a href="ticket">- Tickets</a></li>
-                                        <li><a href="blog">- Blog</a></li>
+                                        <li><a href="event">- Event</a></li>
                                         <li><a href="single-blog">- Single Blog</a></li>
                                         <li><a href="contact">- Contact</a></li>
                                         <li><a href="#">- Dropdown</a>
@@ -70,8 +70,8 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li><a href="speaker">Speakears</a></li>
-                                <li><a href="blog">Blog</a></li>
+                                <li><a href="eo">Event Organizer</a></li>
+                                <li><a href="event">Event</a></li>
                                 <li><a href="contact">Contact</a></li>
                             </ul>
 
@@ -95,7 +95,7 @@
                         <h2 class="page-title">About Us</h2>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="">Home</a></li>
+                                <li class="breadcrumb-item"><a href="/">Home</a></li>
                                 <li class="breadcrumb-item active" aria-current="page">About us</li>
                             </ol>
                         </nav>
@@ -179,9 +179,9 @@
                 <!-- About Content -->
                 <div class="col-12 col-md-6">
                     <div class="about-content-text mb-80">
-                        <h6 class="wow fadeInUp" data-wow-delay="300ms">About Conference</h6>
-                        <h3 class="wow fadeInUp" data-wow-delay="300ms">Welcome to the Project Management</h3>
-                        <p class="wow fadeInUp" data-wow-delay="300ms">The Project Management is a platform to learn expert techniques for building successful project teams, creating efficient plans and implementing effective tracking measures to ensure your projects come in on deadline and on budget. In one fast-paced, well-designed day, we’ll cover all the essential elements of project management.</p>
+                        <h6 class="wow fadeInUp" data-wow-delay="300ms">About Event Organizer</h6>
+                        <h3 class="wow fadeInUp" data-wow-delay="300ms">Welcome to the Event</h3>
+                        <p class="wow fadeInUp" data-wow-delay="300ms">Event Organizer adalah pengelola suatu kegiatan (Pengorganisir Acara). Setiap kegiatan yang di selenggarakan bertujuan untuk memperoleh keuntungan di kedua belah pihak, baik penyelenggara maupun yang hadir pada saat kegiatan berlangsung.</p>
                         <a href="#" class="btn confer-btn mt-50 wow fadeInUp" data-wow-delay="300ms">Interested <i class="zmdi zmdi-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -225,8 +225,8 @@
                 <!-- Heading -->
                 <div class="col-12">
                     <div class="section-heading-3 text-center wow fadeInUp" data-wow-delay="300ms">
-                        <p>Our Speakings</p>
-                        <h4>Who’s speaking</h4>
+                        <p>Our EO</p>
+                        <h4>Who’s organizing</h4>
                     </div>
                 </div>
             </div>
@@ -366,7 +366,7 @@
 
                 <div class="col-12">
                     <div class="more-speaker-btn text-center mt-20 mb-40 wow fadeInUp" data-wow-delay="300ms">
-                        <a class="btn confer-btn" href="#">View All Speaker <i class="zmdi zmdi-long-arrow-right"></i></a>
+                        <a class="btn confer-btn" href="#">View All EO <i class="zmdi zmdi-long-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -444,7 +444,7 @@
                         <!-- Single Client Slide -->
                         <div class="single-client-content bg-boxshadow wow fadeInUp" data-wow-delay="300ms">
                             <div class="single-client-text about-page">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+                                <p>Jir lah</p>
                                 <!-- Thumb and info -->
                                 <div class="single-client-thumb-info d-flex align-items-center">
                                     <!-- Thumb -->
@@ -467,7 +467,7 @@
                         <!-- Single Client Slide -->
                         <div class="single-client-content bg-boxshadow wow fadeInUp" data-wow-delay="300ms">
                             <div class="single-client-text about-page">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+                                <p>Teuing kudu ngeusian naon</p>
                                 <!-- Thumb and info -->
                                 <div class="single-client-thumb-info d-flex align-items-center">
                                     <!-- Thumb -->
@@ -490,7 +490,7 @@
                         <!-- Single Client Slide -->
                         <div class="single-client-content bg-boxshadow wow fadeInUp" data-wow-delay="300ms">
                             <div class="single-client-text about-page">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+                                <p>Zzz</p>
                                 <!-- Thumb and info -->
                                 <div class="single-client-thumb-info d-flex align-items-center">
                                     <!-- Thumb -->

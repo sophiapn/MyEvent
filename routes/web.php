@@ -18,8 +18,8 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return view('about');
 });
-Route::get('/speaker', function () {
-    return view('speaker');
+Route::get('/eo', function () {
+    return view('eo');
 });
 Route::get('/schedule', function () {
     return view('schedule');
@@ -27,8 +27,8 @@ Route::get('/schedule', function () {
 Route::get('/ticket', function () {
     return view('ticket');
 });
-Route::get('/blog', function () {
-    return view('blog');
+Route::get('/event', function () {
+    return view('event');
 });
 Route::get('/single-blog', function () {
     return view('singleblog');

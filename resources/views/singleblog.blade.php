@@ -33,7 +33,7 @@
                 <nav class="classy-navbar justify-content-between" id="conferNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand" href=""><img src="assets/img/core-img/logo.png" alt=""></a>
+                    <a class="nav-brand" href="/"><img src="assets/img/core-img/logo.png" alt=""></a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler">
@@ -49,15 +49,15 @@
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul id="nav">
-                                <li class="active"><a href="">Home</a></li>
+                                <li class="active"><a href="/">Home</a></li>
                                 <li><a href="#">Pages</a>
                                     <ul class="dropdown">
-                                        <li><a href="">- Home</a></li>
+                                        <li><a href="/">- Home</a></li>
                                         <li><a href="about">- About Us</a></li>
-                                        <li><a href="speaker">- Speakears</a></li>
+                                        <li><a href="eo">- Event Organizer</a></li>
                                         <li><a href="schedule">- Schedule</a></li>
                                         <li><a href="ticket">- Tickets</a></li>
-                                        <li><a href="blog">- Blog</a></li>
+                                        <li><a href="event">- Event</a></li>
                                         <li><a href="single-blog">- Single Blog</a></li>
                                         <li><a href="contact">- Contact</a></li>
                                         <li><a href="#">- Dropdown</a>
@@ -70,8 +70,8 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li><a href="speaker">Speakears</a></li>
-                                <li><a href="blog">Blog</a></li>
+                                <li><a href="eo">Event Organizer</a></li>
+                                <li><a href="event">Event</a></li>
                                 <li><a href="contact">Contact</a></li>
                             </ul>
 
@@ -95,7 +95,7 @@
                         <h2 class="page-title">Blog Details</h2>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="">Home</a></li>
+                                <li class="breadcrumb-item"><a href="/">Home</a></li>
                                 <li class="breadcrumb-item"><a href="blog">Blog Grid</a></li>
                                 <li class="breadcrumb-item active" aria-current="page">Blog Details</li>
                             </ol>

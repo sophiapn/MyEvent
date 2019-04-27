@@ -33,7 +33,7 @@
                 <nav class="classy-navbar justify-content-between" id="conferNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand" href=""><img src="assets/img/core-img/logo.png" alt=""></a>
+                    <a class="nav-brand" href="/"><img src="assets/img/core-img/logo.png" alt=""></a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler">
@@ -49,15 +49,15 @@
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul id="nav">
-                                <li class="active"><a href="">Home</a></li>
+                                <li class="active"><a href="/">Home</a></li>
                                 <li><a href="#">Pages</a>
                                     <ul class="dropdown">
-                                        <li><a href="">- Home</a></li>
+                                        <li><a href="/">- Home</a></li>
                                         <li><a href="about">- About Us</a></li>
-                                        <li><a href="speaker">- Speakears</a></li>
+                                        <li><a href="eo">- Event Organizer</a></li>
                                         <li><a href="schedule">- Schedule</a></li>
                                         <li><a href="ticket">- Tickets</a></li>
-                                        <li><a href="blog">- Blog</a></li>
+                                        <li><a href="event">- Event</a></li>
                                         <li><a href="single-blog">- Single Blog</a></li>
                                         <li><a href="contact">- Contact</a></li>
                                         <li><a href="#">- Dropdown</a>
@@ -70,8 +70,8 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li><a href="speaker">Speakears</a></li>
-                                <li><a href="blog">Blog</a></li>
+                                <li><a href="eo">Event Organizer</a></li>
+                                <li><a href="event">Event</a></li>
                                 <li><a href="contact">Contact</a></li>
                             </ul>
 
@@ -95,7 +95,7 @@
                         <h2 class="page-title">Tickets</h2>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="">Home</a></li>
+                                <li class="breadcrumb-item"><a href="/">Home</a></li>
                                 <li class="breadcrumb-item active" aria-current="page">Tickets</li>
                             </ol>
                         </nav>
@@ -113,7 +113,7 @@
                 <!-- Single Ticket Pricing Table -->
                 <div class="col-12 col-lg-4">
                     <div class="single-ticket-pricing-table style-2 text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                        <h6 class="ticket-plan">1 day pass</h6>
+                        <h6 class="ticket-plan">Regular</h6>
                         <!-- Ticket Icon -->
                         <div class="ticket-icon">
                             <img src="assets/img/core-img/p1.png" alt="">
@@ -155,7 +155,7 @@
                 <!-- Single Ticket Pricing Table -->
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-ticket-pricing-table style-2 text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                        <h6 class="ticket-plan">Group pass</h6>
+                        <h6 class="ticket-plan">VIP</h6>
                         <!-- Ticket Icon -->
                         <div class="ticket-icon">
                             <img src="assets/img/core-img/p3.png" alt="">
