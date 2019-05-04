@@ -30,9 +30,6 @@ Route::get('/ticket', function () {
 Route::get('/event', function () {
     return view('event');
 });
-Route::get('/single-blog', function () {
-    return view('singleblog');
-});
-Route::get('/contact', function () {
-    return view('contact');
+Route::get('/bayar', function () {
+    return view('bayar');
 });

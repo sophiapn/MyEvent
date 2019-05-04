@@ -50,33 +50,13 @@
                         <div class="classynav">
                             <ul id="nav">
                                 <li class="active"><a href="/">Home</a></li>
-                                <li><a href="#">Pages</a>
-                                    <ul class="dropdown">
-                                        <li><a href="/">- Home</a></li>
-                                        <li><a href="about">- About Us</a></li>
-                                        <li><a href="eo">- Event Organizer</a></li>
-                                        <li><a href="schedule">- Schedule</a></li>
-                                        <li><a href="ticket">- Tickets</a></li>
-                                        <li><a href="event">- Event</a></li>
-                                        <li><a href="single-blog">- Single Blog</a></li>
-                                        <li><a href="contact">- Contact</a></li>
-                                        <li><a href="#">- Dropdown</a>
-                                            <ul class="dropdown">
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
+                                <li><a href="schedule">Schedule</a></li>
                                 <li><a href="eo">Event Organizer</a></li>
                                 <li><a href="event">Event</a></li>
-                                <li><a href="contact">Contact</a></li>
+                                <li><a href="about">About Us</a></li>
                             </ul>
 
                             <!-- Get Tickets Button -->
-                            <a href="#" class="btn confer-btn mt-3 mt-lg-0 ml-3 ml-lg-5">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
                         </div>
                         <!-- Nav End -->
                     </div>
@@ -113,20 +93,18 @@
                 <!-- Single Ticket Pricing Table -->
                 <div class="col-12 col-lg-4">
                     <div class="single-ticket-pricing-table style-2 text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                        <h6 class="ticket-plan">Regular</h6>
+                        <h6 class="ticket-plan">Silver</h6>
                         <!-- Ticket Icon -->
                         <div class="ticket-icon">
                             <img src="assets/img/core-img/p1.png" alt="">
                         </div>
                         <h2 class="ticket-price"><span>$</span>59</h2>
-                        <a href="#" class="btn confer-btn w-100 mb-30">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
+                        <a href="bayar" class="btn confer-btn w-100 mb-30">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
                         <!-- Ticket Pricing Table Details -->
                         <div class="ticket-pricing-table-details">
-                            <p><i class="zmdi zmdi-check"></i> One Day Conference Ticket</p>
-                            <p><i class="zmdi zmdi-check"></i> Coffee-break</p>
-                            <p><i class="zmdi zmdi-check"></i> Lunch and Networking</p>
-                            <p><i class="zmdi zmdi-check"></i> Keynote talk</p>
-                            <p><i class="zmdi zmdi-check"></i> Talk to the Editors Session</p>
+                            <p><i class="zmdi zmdi-check"></i> Free Standing</p>
+                            <p><i class="zmdi zmdi-check"></i> Tak Ada Snack (Wayahna)</p>
+                            <p><i class="zmdi zmdi-check"></i> Tidak HD</p>
                         </div>
                     </div>
                 </div>
@@ -134,20 +112,21 @@
                 <!-- Single Ticket Pricing Table -->
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-ticket-pricing-table style-2 active text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                        <h6 class="ticket-plan">Full pass</h6>
+                        <h6 class="ticket-plan">VIP</h6>
                         <!-- Ticket Icon -->
                         <div class="ticket-icon">
                             <img src="assets/img/core-img/p2.png" alt="">
                         </div>
-                        <h2 class="ticket-price"><span>$</span>99</h2>
-                        <a href="#" class="btn confer-btn w-100 mb-30">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
+                        <h2 class="ticket-price"><span>$</span>199</h2>
+                        <a href="bayar" class="btn confer-btn w-100 mb-30">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
                         <!-- Ticket Pricing Table Details -->
                         <div class="ticket-pricing-table-details">
-                            <p><i class="zmdi zmdi-check"></i> One Day Conference Ticket</p>
-                            <p><i class="zmdi zmdi-check"></i> Coffee-break</p>
-                            <p><i class="zmdi zmdi-check"></i> Lunch and Networking</p>
-                            <p><i class="zmdi zmdi-check"></i> Keynote talk</p>
-                            <p><i class="zmdi zmdi-check"></i> Talk to the Editors Session</p>
+                            <p><i class="zmdi zmdi-check"></i> Free Standing</p>
+                            
+                            <p><i class="zmdi zmdi-check"></i> Tersedia Singgahsana</p>
+                            <p><i class="zmdi zmdi-check"></i> Wifi</p>
+                            <p><i class="zmdi zmdi-check"></i> Snack</p>
+                            <p><i class="zmdi zmdi-check"></i> Nasi Padang + Es Teh Kurang Manis</p>
                         </div>
                     </div>
                 </div>
@@ -155,20 +134,18 @@
                 <!-- Single Ticket Pricing Table -->
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-ticket-pricing-table style-2 text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                        <h6 class="ticket-plan">VIP</h6>
+                        <h6 class="ticket-plan">Gold</h6>
                         <!-- Ticket Icon -->
                         <div class="ticket-icon">
                             <img src="assets/img/core-img/p3.png" alt="">
                         </div>
-                        <h2 class="ticket-price"><span>$</span>199</h2>
-                        <a href="#" class="btn confer-btn w-100 mb-30">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
+                        <h2 class="ticket-price"><span>$</span>99</h2>
+                        <a href="bayar" class="btn confer-btn w-100 mb-30">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
                         <!-- Ticket Pricing Table Details -->
                         <div class="ticket-pricing-table-details">
-                            <p><i class="zmdi zmdi-check"></i> One Day Conference Ticket</p>
-                            <p><i class="zmdi zmdi-check"></i> Coffee-break</p>
-                            <p><i class="zmdi zmdi-check"></i> Lunch and Networking</p>
-                            <p><i class="zmdi zmdi-check"></i> Keynote talk</p>
-                            <p><i class="zmdi zmdi-check"></i> Talk to the Editors Session</p>
+                            <p><i class="zmdi zmdi-check"></i> Free Standing</p>
+                            <p><i class="zmdi zmdi-check"></i> Tersedia Kursi (Uwow)</p>
+                            <p><i class="zmdi zmdi-check"></i> Snack</p>
                         </div>
                     </div>
                 </div>
@@ -178,28 +155,7 @@
     <!-- Our Ticket Pricing Table Area End -->
 
     <!-- Call to Action Area Start -->
-    <section class="call-to-action-area bg-img bg-gradient-overlay jarallax section-padding-100" style="background-image: url(assets/img/bg-img/14.jpg);">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="call-to-action-content text-center">
-                        <div class="call-to-action-heading">
-                            <h6>the event consistently</h6>
-                            <h2>Osha Compliance</h2>
-                        </div>
-                        <div class="event-time">
-                            <p><i class="zmdi zmdi-alarm-check"></i> 2-14 Jan 2019</p>
-                            <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
-                        </div>
-                    </div>
-
-                    <div class="ticket-btn text-center">
-                        <a href="#" class="btn confer-btn-white-2 mt-40">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
     <!-- Call to Action Area End -->
 
     <!-- Footer Area Start -->
@@ -233,7 +189,7 @@
 
                             <!-- Contact Area -->
                             <div class="footer-contact-info">
-                                <p><i class="zmdi zmdi-map"></i> 184 Main Collins Street</p>
+                                <p><i class="zmdi zmdi-map"></i> UINSGD</p>
                                 <p><i class="zmdi zmdi-phone"></i> (226) 446 9371</p>
                                 <p><i class="zmdi zmdi-email"></i> confer@gmail.com</p>
                                 <p><i class="zmdi zmdi-globe"></i> www.confer.com</p>
@@ -251,8 +207,8 @@
                             <ul class="footer-nav">
                                 <li><a href="#">OSHA Compliance</a></li>
                                 <li><a href="#">Microsoft Excel Basics</a></li>
-                                <li><a href="#">Forum Speaker Series</a></li>
-                                <li><a href="#">Tedx Moscow Conference</a></li>
+                                <li><a href="#">Forum EO Series</a></li>
+                                <li><a href="#">Indonesia Conference</a></li>
                             </ul>
                         </div>
                     </div>
@@ -300,7 +256,7 @@
                     <div class="col-12 col-md-6">
                         <div class="copywrite-text">
                             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://IF-UINSGD.com" target="_blank">Colorlib</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                         </div>
                     </div>

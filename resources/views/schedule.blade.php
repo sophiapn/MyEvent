@@ -50,33 +50,13 @@
                         <div class="classynav">
                             <ul id="nav">
                                 <li class="active"><a href="/">Home</a></li>
-                                <li><a href="#">Pages</a>
-                                    <ul class="dropdown">
-                                        <li><a href="/">- Home</a></li>
-                                        <li><a href="about">- About Us</a></li>
-                                        <li><a href="eo">- Event Organizer</a></li>
-                                        <li><a href="schedule">- Schedule</a></li>
-                                        <li><a href="ticket">- Tickets</a></li>
-                                        <li><a href="event">- Event</a></li>
-                                        <li><a href="single-blog">- Single Blog</a></li>
-                                        <li><a href="contact">- Contact</a></li>
-                                        <li><a href="#">- Dropdown</a>
-                                            <ul class="dropdown">
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
+                                <li><a href="schedule">Schedule</a></li>
                                 <li><a href="eo">Event Organizer</a></li>
                                 <li><a href="event">Event</a></li>
-                                <li><a href="contact">Contact</a></li>
+                                <li><a href="about">About Us</a></li>
                             </ul>
 
                             <!-- Get Tickets Button -->
-                            <a href="#" class="btn confer-btn mt-3 mt-lg-0 ml-3 ml-lg-5">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
                         </div>
                         <!-- Nav End -->
                     </div>
@@ -428,7 +408,7 @@
 
                             <!-- Contact Area -->
                             <div class="footer-contact-info">
-                                <p><i class="zmdi zmdi-map"></i> 184 Main Collins Street</p>
+                                <p><i class="zmdi zmdi-map"></i> UINSGD</p>
                                 <p><i class="zmdi zmdi-phone"></i> (226) 446 9371</p>
                                 <p><i class="zmdi zmdi-email"></i> confer@gmail.com</p>
                                 <p><i class="zmdi zmdi-globe"></i> www.confer.com</p>
@@ -446,8 +426,8 @@
                             <ul class="footer-nav">
                                 <li><a href="#">OSHA Compliance</a></li>
                                 <li><a href="#">Microsoft Excel Basics</a></li>
-                                <li><a href="#">Forum Speaker Series</a></li>
-                                <li><a href="#">Tedx Moscow Conference</a></li>
+                                <li><a href="#">Forum EO Series</a></li>
+                                <li><a href="#">Indonesia Conference</a></li>
                             </ul>
                         </div>
                     </div>
@@ -495,7 +475,7 @@
                     <div class="col-12 col-md-6">
                         <div class="copywrite-text">
                             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://IF-UINSGD.com" target="_blank">Colorlib</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                         </div>
                     </div>

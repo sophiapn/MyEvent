@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Title -->
-    <title>Confer - Conference Event HTML Template</title>
+    <title>MyEvent</title>
 
     <!-- Favicon -->
     <link rel="icon" href="assets/img/core-img/favicon.png">
@@ -33,7 +33,7 @@
                 <nav class="classy-navbar justify-content-between" id="conferNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand" href="/"><img src="assets/img/core-img/logo.png" alt=""></a>
+                    <a class="nav-brand" href=""><img src="assets/img/core-img/logo.png" alt=""></a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler">
@@ -50,33 +50,14 @@
                         <div class="classynav">
                             <ul id="nav">
                                 <li class="active"><a href="/">Home</a></li>
-                                <li><a href="#">Pages</a>
-                                    <ul class="dropdown">
-                                        <li><a href="/">- Home</a></li>
-                                        <li><a href="about">- About Us</a></li>
-                                        <li><a href="eo">- Event Organizer</a></li>
-                                        <li><a href="schedule">- Schedule</a></li>
-                                        <li><a href="ticket">- Tickets</a></li>
-                                        <li><a href="event">- Event</a></li>
-                                        <li><a href="single-blog">- Single Blog</a></li>
-                                        <li><a href="contact">- Contact</a></li>
-                                        <li><a href="#">- Dropdown</a>
-                                            <ul class="dropdown">
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
+                                <li><a href="schedule">Schedule</a></li>
                                 <li><a href="eo">Event Organizer</a></li>
                                 <li><a href="event">Event</a></li>
-                                <li><a href="contact">Contact</a></li>
+                                <li><a href="about">About Us</a></li>
                             </ul>
 
                             <!-- Get Tickets Button -->
-                            <a href="#" class="btn confer-btn mt-3 mt-lg-0 ml-3 ml-lg-5">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
+                            
                         </div>
                         <!-- Nav End -->
                     </div>
@@ -96,10 +77,10 @@
                         <!-- Welcome Text -->
                         <div class="col-12">
                             <div class="welcome-text text-right">
-                                <h2 data-animation="fadeInUp" data-delay="300ms">Conference <br>Event</h2>
-                                <h6 data-animation="fadeInUp" data-delay="500ms">Menyediakan Informasi Event Indonesia</h6>
+                                <h2 data-animation="fadeInUp" data-delay="300ms">Event <br>Conference</h2>
+                                <h6 data-animation="fadeInUp" data-delay="500ms">Menyediakan Event Indonesia</h6>
                                 <div class="hero-btn-group" data-animation="fadeInUp" data-delay="700ms">
-                                    <a href="#" class="btn confer-btn">More Information <i class="zmdi zmdi-long-arrow-right"></i></a>
+                                    <a href="event" class="btn confer-btn">More Information <i class="zmdi zmdi-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -108,28 +89,7 @@
             </div>
 
             <!-- Single Slide -->
-            <div class="single-welcome-slide bg-img bg-overlay jarallax" style="background-image: url(assets/img/bg-img/45.jpg);">
-                <div class="container h-100">
-                    <div class="row h-100 align-items-center">
-                        <!-- Welcome Text -->
-                        <div class="col-12">
-                            <div class="welcome-text-two text-center">
-                                <h5 data-animation="fadeInUp" data-delay="100ms">The event consistently</h5>
-                                <h2 data-animation="fadeInUp" data-delay="300ms">OSHA Compliance</h2>
-                                <!-- Event Meta -->
-                                <div class="event-meta" data-animation="fadeInUp" data-delay="500ms">
-                                    <a class="event-date" href="#"><i class="zmdi zmdi-account"></i> January 14, 2019</a>
-                                    <a class="event-author" href="#"><i class="zmdi zmdi-alarm-check"></i> Laura Green</a>
-                                </div>
-                                <div class="hero-btn-group" data-animation="fadeInUp" data-delay="700ms">
-                                    <a href="#" class="btn confer-btn m-2">View more <i class="zmdi zmdi-long-arrow-right"></i></a>
-                                    <a href="#" class="btn confer-btn m-2">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
         </div>
 
         <!-- Scroll Icon -->
@@ -147,7 +107,7 @@
                         <h6 class="wow fadeInUp" data-wow-delay="300ms">About Event Organizer</h6>
                         <h3 class="wow fadeInUp" data-wow-delay="300ms">Welcome to the Event</h3>
                         <p class="wow fadeInUp" data-wow-delay="300ms">Event Organizer adalah pengelola suatu kegiatan (Pengorganisir Acara). Setiap kegiatan yang di selenggarakan bertujuan untuk memperoleh keuntungan di kedua belah pihak, baik penyelenggara maupun yang hadir pada saat kegiatan berlangsung.</p>
-                        <a href="#" class="btn confer-btn mt-50 wow fadeInUp" data-wow-delay="300ms">Interested <i class="zmdi zmdi-long-arrow-right"></i></a>
+                        <a href="#" class="btn confer-btn mt-50 wow fadeInUp" data-wow-delay="300ms">Interested <i class="zmdi zmdi-long-arrow-right"></i></a> <!--Sambung ke daftar EO-->
                     </div>
                 </div>
 
@@ -161,25 +121,7 @@
         </div>
 
         <!-- Counter Up Area -->
-        <div class="countdown-up-area">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-12 col-md-3">
-                        <!-- Countdown Text -->
-                        <div class="countdown-content-text mb-100 wow fadeInUp" data-wow-delay="300ms">
-                            <h6>Conference Date</h6>
-                            <h4>Count Every Second Until the Event</h4>
-                        </div>
-                    </div>
-
-                    <div class="col-12 col-md-9">
-                        <div class="countdown-timer mb-100 wow fadeInUp" data-wow-delay="300ms">
-                            <div id="clock"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
     </section>
     <!-- About Us And Countdown Area End -->
 
@@ -214,7 +156,7 @@
                         <!-- Info -->
                         <div class="speaker-info">
                             <h5>Albert Barnes</h5>
-                            <p>Founder</p>
+                            <a href="event"><p>Festival Karier</p></a>
                         </div>
                     </div>
                 </div>
@@ -236,7 +178,7 @@
                         <!-- Info -->
                         <div class="speaker-info">
                             <h5>Patricia Stanley</h5>
-                            <p>Product Lead</p>
+                            <a href="event"><p>TERAA RUN10K</p></a>
                         </div>
                     </div>
                 </div>
@@ -258,7 +200,7 @@
                         <!-- Info -->
                         <div class="speaker-info">
                             <h5>Evelyn Stone</h5>
-                            <p>Photographer</p>
+                            <a href="event"><p>Lego Speed Build</p></a>
                         </div>
                     </div>
                 </div>
@@ -280,7 +222,7 @@
                         <!-- Info -->
                         <div class="speaker-info">
                             <h5>Evelyn Stone</h5>
-                            <p>Photographer</p>
+                            <a href="event"><p>Konser Black Pink</p></a>
                         </div>
                     </div>
                 </div>
@@ -302,7 +244,7 @@
                         <!-- Info -->
                         <div class="speaker-info">
                             <h5>Susan Hopkins</h5>
-                            <p>UX Manager</p>
+                            <a href="event"><p>Gaming Indonesia</p></a>
                         </div>
                     </div>
                 </div>
@@ -324,14 +266,14 @@
                         <!-- Info -->
                         <div class="speaker-info">
                             <h5>Michael Fowler</h5>
-                            <p>Product Design</p>
+                            <a href="event"><p>Balap Kuda</p></a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-12">
                     <div class="more-speaker-btn text-center mt-20 mb-40 wow fadeInUp" data-wow-delay="300ms">
-                        <a class="btn confer-btn-white" href="#">view all EO <i class="zmdi zmdi-long-arrow-right"></i></a>
+                        <a class="btn confer-btn-white" href="eo">view all EO <i class="zmdi zmdi-long-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -340,379 +282,11 @@
     <!-- Our Speakings Area End -->
 
     <!-- Our Schedule Area Start -->
-    <section class="our-schedule-area section-padding-100">
-        <div class="container">
-            <div class="row">
-                <!-- Heading -->
-                <div class="col-12">
-                    <div class="section-heading-2 text-center wow fadeInUp" data-wow-delay="300ms">
-                        <p>Our Event</p>
-                        <h4>Schedule Event</h4>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-12">
-                    <div class="schedule-tab">
-                        <!-- Nav Tabs -->
-                        <ul class="nav nav-tabs wow fadeInUp" data-wow-delay="300ms" id="conferScheduleTab" role="tablist">
-                            <li class="nav-item">
-                                <a class="nav-link active" id="monday-tab" data-toggle="tab" href="#step-one" role="tab" aria-controls="step-one" aria-expanded="true">Monday <br> <span>January 14, 2019</span></a>
-                            </li>
-                            <!-- Nav Item -->
-                            <li class="nav-item">
-                                <a class="nav-link" id="tuesday-tab" data-toggle="tab" href="#step-two" role="tab" aria-controls="step-two" aria-expanded="true">Tuesday <br> <span>January 15, 2019</span></a>
-                            </li>
-                            <!-- Nav Item -->
-                            <li class="nav-item">
-                                <a class="nav-link" id="wednesday-tab" data-toggle="tab" href="#step-three" role="tab" aria-controls="step-three" aria-expanded="true">Wednesday <br> <span>January 16, 2019</span></a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <!-- Tab Content -->
-                    <div class="tab-content" id="conferScheduleTabContent">
-                        <div class="tab-pane fade show active" id="step-one" role="tabpanel" aria-labelledby="monday-tab">
-                            <!-- Single Tab Content -->
-                            <div class="single-tab-content">
-                                <div class="row">
-                                    <div class="col-12">
-                                        <!-- Single Schedule Area -->
-                                        <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
-                                            <!-- Single Schedule Thumb and Info -->
-                                            <div class="single-schedule-tumb-info d-flex align-items-center">
-                                                <!-- Single Schedule Thumb -->
-                                                <div class="single-schedule-tumb">
-                                                    <img src="assets/img/bg-img/10.jpg" alt="">
-                                                </div>
-                                                <!-- Single Schedule Info -->
-                                                <div class="single-schedule-info">
-                                                    <h6>Dealing with Difficult People</h6>
-                                                    <p>by <span>Gary Armstrong</span> / Ceo of Confer</p>
-                                                </div>
-                                            </div>
-                                            <!-- Single Schedule Info -->
-                                            <div class="schedule-time-place">
-                                                <p><i class="zmdi zmdi-time"></i> 12-14 Jan 2019</p>
-                                                <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
-                                            </div>
-                                            <!-- Schedule Btn -->
-                                            <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
-                                        </div>
-
-                                        <!-- Single Schedule Area -->
-                                        <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
-                                            <!-- Single Schedule Thumb and Info -->
-                                            <div class="single-schedule-tumb-info d-flex align-items-center">
-                                                <!-- Single Schedule Thumb -->
-                                                <div class="single-schedule-tumb">
-                                                    <img src="assets/img/bg-img/11.jpg" alt="">
-                                                </div>
-                                                <!-- Single Schedule Info -->
-                                                <div class="single-schedule-info">
-                                                    <h6>Crop Insurance Conference</h6>
-                                                    <p>by <span>Amanda Hudson</span> / Ceo of Confer</p>
-                                                </div>
-                                            </div>
-                                            <!-- Single Schedule Info -->
-                                            <div class="schedule-time-place">
-                                                <p><i class="zmdi zmdi-time"></i> 12-14 Jan 2019</p>
-                                                <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
-                                            </div>
-                                            <!-- Schedule Btn -->
-                                            <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
-                                        </div>
-
-                                        <!-- Single Schedule Area -->
-                                        <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
-                                            <!-- Single Schedule Thumb and Info -->
-                                            <div class="single-schedule-tumb-info d-flex align-items-center">
-                                                <!-- Single Schedule Thumb -->
-                                                <div class="single-schedule-tumb">
-                                                    <img src="assets/img/bg-img/12.jpg" alt="">
-                                                </div>
-                                                <!-- Single Schedule Info -->
-                                                <div class="single-schedule-info">
-                                                    <h6>Capdm Executive Conference</h6>
-                                                    <p>by <span>Martha Burke</span> / Ceo of Confer</p>
-                                                </div>
-                                            </div>
-                                            <!-- Single Schedule Info -->
-                                            <div class="schedule-time-place">
-                                                <p><i class="zmdi zmdi-time"></i> 12-14 Jan 2019</p>
-                                                <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
-                                            </div>
-                                            <!-- Schedule Btn -->
-                                            <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
-                                        </div>
-
-                                        <!-- Single Schedule Area -->
-                                        <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
-                                            <!-- Single Schedule Thumb and Info -->
-                                            <div class="single-schedule-tumb-info d-flex align-items-center">
-                                                <!-- Single Schedule Thumb -->
-                                                <div class="single-schedule-tumb">
-                                                    <img src="assets/img/bg-img/13.jpg" alt="">
-                                                </div>
-                                                <!-- Single Schedule Info -->
-                                                <div class="single-schedule-info">
-                                                    <h6>Street Food Convention</h6>
-                                                    <p>by <span>Jeffrey Morales</span> / Ceo of Confer</p>
-                                                </div>
-                                            </div>
-                                            <!-- Single Schedule Info -->
-                                            <div class="schedule-time-place">
-                                                <p><i class="zmdi zmdi-time"></i> 12-14 Jan 2019</p>
-                                                <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
-                                            </div>
-                                            <!-- Schedule Btn -->
-                                            <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
-                                        </div>
-                                    </div>
-
-                                    <!-- More Schedule Btn -->
-                                    <div class="col-12">
-                                        <div class="more-schedule-btn text-center mt-50 wow fadeInUp" data-wow-delay="300ms">
-                                            <a href="#" class="btn confer-gb-btn">Dowload schedule (Pdf)</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="tab-pane fade" id="step-two" role="tabpanel" aria-labelledby="tuesday-tab">
-                            <!-- Single Tab Content -->
-                            <div class="single-tab-content">
-                                <div class="row">
-                                    <div class="col-12">
-                                        <!-- Single Schedule Area -->
-                                        <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
-                                            <!-- Single Schedule Thumb and Info -->
-                                            <div class="single-schedule-tumb-info d-flex align-items-center">
-                                                <!-- Single Schedule Thumb -->
-                                                <div class="single-schedule-tumb">
-                                                    <img src="assets/img/bg-img/11.jpg" alt="">
-                                                </div>
-                                                <!-- Single Schedule Info -->
-                                                <div class="single-schedule-info">
-                                                    <h6>Crop Insurance Conference</h6>
-                                                    <p>by <span>Amanda Hudson</span> / Ceo of Confer</p>
-                                                </div>
-                                            </div>
-                                            <!-- Single Schedule Info -->
-                                            <div class="schedule-time-place">
-                                                <p><i class="zmdi zmdi-time"></i> 12-14 Jan 2019</p>
-                                                <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
-                                            </div>
-                                            <!-- Schedule Btn -->
-                                            <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
-                                        </div>
-
-                                        <!-- Single Schedule Area -->
-                                        <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
-                                            <!-- Single Schedule Thumb and Info -->
-                                            <div class="single-schedule-tumb-info d-flex align-items-center">
-                                                <!-- Single Schedule Thumb -->
-                                                <div class="single-schedule-tumb">
-                                                    <img src="assets/img/bg-img/12.jpg" alt="">
-                                                </div>
-                                                <!-- Single Schedule Info -->
-                                                <div class="single-schedule-info">
-                                                    <h6>Capdm Executive Conference</h6>
-                                                    <p>by <span>Martha Burke</span> / Ceo of Confer</p>
-                                                </div>
-                                            </div>
-                                            <!-- Single Schedule Info -->
-                                            <div class="schedule-time-place">
-                                                <p><i class="zmdi zmdi-time"></i> 12-14 Jan 2019</p>
-                                                <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
-                                            </div>
-                                            <!-- Schedule Btn -->
-                                            <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
-                                        </div>
-
-                                        <!-- Single Schedule Area -->
-                                        <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
-                                            <!-- Single Schedule Thumb and Info -->
-                                            <div class="single-schedule-tumb-info d-flex align-items-center">
-                                                <!-- Single Schedule Thumb -->
-                                                <div class="single-schedule-tumb">
-                                                    <img src="assets/img/bg-img/13.jpg" alt="">
-                                                </div>
-                                                <!-- Single Schedule Info -->
-                                                <div class="single-schedule-info">
-                                                    <h6>Street Food Convention</h6>
-                                                    <p>by <span>Jeffrey Morales</span> / Ceo of Confer</p>
-                                                </div>
-                                            </div>
-                                            <!-- Single Schedule Info -->
-                                            <div class="schedule-time-place">
-                                                <p><i class="zmdi zmdi-time"></i> 12-14 Jan 2019</p>
-                                                <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
-                                            </div>
-                                            <!-- Schedule Btn -->
-                                            <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
-                                        </div>
-                                    </div>
-
-                                    <!-- More Schedule Btn -->
-                                    <div class="col-12">
-                                        <div class="more-schedule-btn text-center mt-50 wow fadeInUp" data-wow-delay="300ms">
-                                            <a href="#" class="btn confer-gb-btn">Dowload schedule (Pdf)</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="tab-pane fade" id="step-three" role="tabpanel" aria-labelledby="wednesday-tab">
-                            <!-- Single Tab Content -->
-                            <div class="single-tab-content">
-                                <div class="row">
-                                    <div class="col-12">
-                                        <!-- Single Schedule Area -->
-                                        <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
-                                            <!-- Single Schedule Thumb and Info -->
-                                            <div class="single-schedule-tumb-info d-flex align-items-center">
-                                                <!-- Single Schedule Thumb -->
-                                                <div class="single-schedule-tumb">
-                                                    <img src="assets/img/bg-img/10.jpg" alt="">
-                                                </div>
-                                                <!-- Single Schedule Info -->
-                                                <div class="single-schedule-info">
-                                                    <h6>Dealing with Difficult People</h6>
-                                                    <p>by <span>Gary Armstrong</span> / Ceo of Confer</p>
-                                                </div>
-                                            </div>
-                                            <!-- Single Schedule Info -->
-                                            <div class="schedule-time-place">
-                                                <p><i class="zmdi zmdi-time"></i> 12-14 Jan 2019</p>
-                                                <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
-                                            </div>
-                                            <!-- Schedule Btn -->
-                                            <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
-                                        </div>
-
-                                        <!-- Single Schedule Area -->
-                                        <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
-                                            <!-- Single Schedule Thumb and Info -->
-                                            <div class="single-schedule-tumb-info d-flex align-items-center">
-                                                <!-- Single Schedule Thumb -->
-                                                <div class="single-schedule-tumb">
-                                                    <img src="assets/img/bg-img/13.jpg" alt="">
-                                                </div>
-                                                <!-- Single Schedule Info -->
-                                                <div class="single-schedule-info">
-                                                    <h6>Street Food Convention</h6>
-                                                    <p>by <span>Jeffrey Morales</span> / Ceo of Confer</p>
-                                                </div>
-                                            </div>
-                                            <!-- Single Schedule Info -->
-                                            <div class="schedule-time-place">
-                                                <p><i class="zmdi zmdi-time"></i> 12-14 Jan 2019</p>
-                                                <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
-                                            </div>
-                                            <!-- Schedule Btn -->
-                                            <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
-                                        </div>
-                                    </div>
-
-                                    <!-- More Schedule Btn -->
-                                    <div class="col-12">
-                                        <div class="more-schedule-btn text-center mt-50 wow fadeInUp" data-wow-delay="300ms">
-                                            <a href="#" class="btn confer-gb-btn">Dowload schedule (Pdf)</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
     <!-- Our Schedule Area End -->
 
     <!-- Our Ticket Pricing Table Area Start -->
-    <section class="our-ticket-pricing-table-area bg-img bg-gradient-overlay section-padding-100-0 jarallax" style="background-image: url(assets/img/bg-img/14.jpg);">
-        <div class="container">
-            <div class="row">
-                <!-- Heading -->
-                <div class="col-12">
-                    <div class="section-heading text-center wow fadeInUp" data-wow-delay="300ms">
-                        <p>Choose a Ticket</p>
-                        <h4>Ticket Pricing</h4>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <!-- Single Ticket Pricing Table -->
-                <div class="col-12 col-lg-4">
-                    <div class="single-ticket-pricing-table text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                        <h6 class="ticket-plan">Regular</h6>
-                        <!-- Ticket Icon -->
-                        <div class="ticket-icon">
-                            <img src="assets/img/core-img/p1.png" alt="">
-                        </div>
-                        <h2 class="ticket-price"><span>$</span>59</h2>
-                        <a href="#" class="btn confer-btn w-100 mb-30">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
-                        <!-- Ticket Pricing Table Details -->
-                        <div class="ticket-pricing-table-details">
-                            <p><i class="zmdi zmdi-check"></i> One Day Conference Ticket</p>
-                            <p><i class="zmdi zmdi-check"></i> Coffee-break</p>
-                            <p><i class="zmdi zmdi-check"></i> Lunch and Networking</p>
-                            <p><i class="zmdi zmdi-check"></i> Keynote talk</p>
-                            <p><i class="zmdi zmdi-check"></i> Talk to the Editors Session</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Ticket Pricing Table -->
-                <div class="col-12 col-md-6 col-lg-4">
-                    <div class="single-ticket-pricing-table active text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                        <h6 class="ticket-plan">Full pass</h6>
-                        <!-- Ticket Icon -->
-                        <div class="ticket-icon">
-                            <img src="assets/img/core-img/p2.png" alt="">
-                        </div>
-                        <h2 class="ticket-price"><span>$</span>99</h2>
-                        <a href="#" class="btn confer-btn w-100 mb-30">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
-                        <!-- Ticket Pricing Table Details -->
-                        <div class="ticket-pricing-table-details">
-                            <p><i class="zmdi zmdi-check"></i> One Day Conference Ticket</p>
-                            <p><i class="zmdi zmdi-check"></i> Coffee-break</p>
-                            <p><i class="zmdi zmdi-check"></i> Lunch and Networking</p>
-                            <p><i class="zmdi zmdi-check"></i> Keynote talk</p>
-                            <p><i class="zmdi zmdi-check"></i> Talk to the Editors Session</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Ticket Pricing Table -->
-                <div class="col-12 col-md-6 col-lg-4">
-                    <div class="single-ticket-pricing-table text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                        <h6 class="ticket-plan">VIP</h6>
-                        <!-- Ticket Icon -->
-                        <div class="ticket-icon">
-                            <img src="assets/img/core-img/p3.png" alt="">
-                        </div>
-                        <h2 class="ticket-price"><span>$</span>199</h2>
-                        <a href="#" class="btn confer-btn w-100 mb-30">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
-                        <!-- Ticket Pricing Table Details -->
-                        <div class="ticket-pricing-table-details">
-                            <p><i class="zmdi zmdi-check"></i> One Day Conference Ticket</p>
-                            <p><i class="zmdi zmdi-check"></i> Coffee-break</p>
-                            <p><i class="zmdi zmdi-check"></i> Lunch and Networking</p>
-                            <p><i class="zmdi zmdi-check"></i> Keynote talk</p>
-                            <p><i class="zmdi zmdi-check"></i> Talk to the Editors Session</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
     <!-- Our Ticket Pricing Table Area End -->
 
     <!-- Our Sponsor And Client Area Start -->
@@ -766,86 +340,6 @@
                         </div>
                     </div>
                 </div>
-
-                <!-- Our client area -->
-                <div class="col-12">
-                    <div class="our-client-area mt-100 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- client Slider -->
-                        <div class="client-area owl-carousel">
-                            <!-- Single client Slider -->
-                            <div class="single-client-content">
-                                <!-- Single client Text -->
-                                <div class="single-client-text">
-                                    <p>Jir lah</p>
-                                    <!-- Single client Thumb and info -->
-                                    <div class="single-client-thumb-info d-flex align-items-center">
-                                        <!-- Single client Thumb -->
-                                        <div class="single-client-thumb">
-                                            <img src="assets/img/bg-img/15.jpg" alt="">
-                                        </div>
-                                        <!-- Single client Info -->
-                                        <div class="client-info">
-                                            <h6>Maria Hernandez</h6>
-                                            <p>UX Manager</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Single client Icon -->
-                                <div class="client-icon">
-                                    <i class="zmdi zmdi-quote"></i>
-                                </div>
-                            </div>
-
-                            <!-- Single client Slider -->
-                            <div class="single-client-content">
-                                <!-- Single client Text -->
-                                <div class="single-client-text">
-                                    <p>Teuing eusina naon</p>
-                                    <!-- Single client Thumb and info -->
-                                    <div class="single-client-thumb-info d-flex align-items-center">
-                                        <!-- Single client Thumb -->
-                                        <div class="single-client-thumb">
-                                            <img src="assets/img/bg-img/16.jpg" alt="">
-                                        </div>
-                                        <!-- Single client Info -->
-                                        <div class="client-info">
-                                            <h6>Jacqueline Myers</h6>
-                                            <p>UX Manager</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Single client Icon -->
-                                <div class="client-icon">
-                                    <i class="zmdi zmdi-quote"></i>
-                                </div>
-                            </div>
-
-                            <!-- Single client Slider -->
-                            <div class="single-client-content">
-                                <!-- Single client Text -->
-                                <div class="single-client-text">
-                                    <p>Zzzzzzzzz</p>
-                                    <!-- Single client Thumb and info -->
-                                    <div class="single-client-thumb-info d-flex align-items-center">
-                                        <!-- Single client Thumb -->
-                                        <div class="single-client-thumb">
-                                            <img src="assets/img/bg-img/15.jpg" alt="">
-                                        </div>
-                                        <!-- Single client Info -->
-                                        <div class="client-info">
-                                            <h6>Maria Hernandez</h6>
-                                            <p>UX Manager</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Single client Icon -->
-                                <div class="client-icon">
-                                    <i class="zmdi zmdi-quote"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
@@ -858,7 +352,7 @@
                 <div class="col-12">
                     <!-- Heading -->
                     <div class="section-heading text-center wow fadeInUp" data-wow-delay="300ms">
-                        <p>Our Blog</p>
+                        <p>Our Event</p>
                         <h4>Latest news</h4>
                     </div>
                 </div>
@@ -874,13 +368,13 @@
                             <a class="blog-title" href="#">Festival Karier SMK – April 2019﻿</a>
                             <!-- Post Meta -->
                             <div class="post-meta">
-                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i> 14 April 2019</a>
+                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>14 April 2019</a>
                                 <a class="post-author" href="#"><i class="zmdi zmdi-account"></i> Laura Green</a>
                             </div>
                             <p>Memperingati Hari Pendidikan Nasional TopKarir</p>
                         </div>
                         <div class="blog-btn">
-                            <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
+                            <a href="ticket"><i class="zmdi zmdi-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -897,12 +391,12 @@
                             <!-- Post Meta -->
                             <div class="post-meta">
                                 <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>07 Juli 2019</a>
-                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Pink</a>
                             </div>
                             <p>Gerakan langkahmu, Pacu prestasimu</p>
                         </div>
                         <div class="blog-btn">
-                            <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
+                            <a href="ticket"><i class="zmdi zmdi-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -919,12 +413,12 @@
                             <!-- Post Meta -->
                             <div class="post-meta">
                                 <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>04 Mei 2019</a>
-                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Polkadot</a>
                             </div>
-                            <p>Tunjukan robot kreatifmu dan dapatkan hadiah Sphero mini, lego dan piala</p>
+                            <p>Tunjukan robot kreatifmu dan dapatkan hadiahnya</p>
                         </div>
                         <div class="blog-btn">
-                            <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
+                            <a href="ticket"><i class="zmdi zmdi-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -1057,7 +551,7 @@
 
                             <!-- Contact Area -->
                             <div class="footer-contact-info">
-                                <p><i class="zmdi zmdi-map"></i> 184 Main Collins Street</p>
+                                <p><i class="zmdi zmdi-map"></i> UINSGD</p>
                                 <p><i class="zmdi zmdi-phone"></i> (226) 446 9371</p>
                                 <p><i class="zmdi zmdi-email"></i> confer@gmail.com</p>
                                 <p><i class="zmdi zmdi-globe"></i> www.confer.com</p>
@@ -1075,8 +569,8 @@
                             <ul class="footer-nav">
                                 <li><a href="#">OSHA Compliance</a></li>
                                 <li><a href="#">Microsoft Excel Basics</a></li>
-                                <li><a href="#">Forum Speaker Series</a></li>
-                                <li><a href="#">Tedx Moscow Conference</a></li>
+                                <li><a href="#">Forum EO Series</a></li>
+                                <li><a href="#">Indonesia Conference</a></li>
                             </ul>
                         </div>
                     </div>

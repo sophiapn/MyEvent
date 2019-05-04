@@ -50,33 +50,14 @@
                         <div class="classynav">
                             <ul id="nav">
                                 <li class="active"><a href="/">Home</a></li>
-                                <li><a href="#">Pages</a>
-                                    <ul class="dropdown">
-                                        <li><a href="/">- Home</a></li>
-                                        <li><a href="about">- About Us</a></li>
-                                        <li><a href="eo">- Event Organizer</a></li>
-                                        <li><a href="schedule">- Schedule</a></li>
-                                        <li><a href="ticket">- Tickets</a></li>
-                                        <li><a href="event">- Event</a></li>
-                                        <li><a href="single-blog">- Single Blog</a></li>
-                                        <li><a href="contact">- Contact</a></li>
-                                        <li><a href="#">- Dropdown</a>
-                                            <ul class="dropdown">
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
+                                <li><a href="schedule">Schedule</a></li>
                                 <li><a href="eo">Event Organizer</a></li>
                                 <li><a href="event">Event</a></li>
-                                <li><a href="contact">Contact</a></li>
+                                <li><a href="about">About Us</a></li>
                             </ul>
 
                             <!-- Get Tickets Button -->
-                            <a href="#" class="btn confer-btn mt-3 mt-lg-0 ml-3 ml-lg-5">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
+ 
                         </div>
                         <!-- Nav End -->
                     </div>
@@ -127,7 +108,7 @@
                         <!-- Info -->
                         <div class="speaker-info">
                             <h5>Albert Barnes</h5>
-                            <p>Founder</p>
+                            <a href="event"><p>Festival Karier</p></a>
                         </div>
                     </div>
                 </div>
@@ -139,6 +120,7 @@
                         <div class="speaker-single-thumb">
                             <img src="assets/img/bg-img/5.jpg" alt="">
                         </div>
+
                         <!-- Social Info -->
                         <div class="social-info">
                             <a href="#"><i class="zmdi zmdi-facebook"></i></a>
@@ -149,10 +131,11 @@
                         <!-- Info -->
                         <div class="speaker-info">
                             <h5>Patricia Stanley</h5>
-                            <p>Product Lead</p>
+                            <a href="event"><p>TERAA RUN10K</p></a>
                         </div>
                     </div>
                 </div>
+
 
                 <!-- Single Speaker Area -->
                 <div class="col-12 col-sm-6 col-lg-4">
@@ -171,7 +154,7 @@
                         <!-- Info -->
                         <div class="speaker-info">
                             <h5>Evelyn Stone</h5>
-                            <p>Photographer</p>
+                            <a href="event"><p>Lego Speed Build</p></a>
                         </div>
                     </div>
                 </div>
@@ -193,7 +176,7 @@
                         <!-- Info -->
                         <div class="speaker-info">
                             <h5>Evelyn Stone</h5>
-                            <p>Photographer</p>
+                            <a href="event"><p>Konser BTS</p></a>
                         </div>
                     </div>
                 </div>
@@ -215,7 +198,7 @@
                         <!-- Info -->
                         <div class="speaker-info">
                             <h5>Susan Hopkins</h5>
-                            <p>UX Manager</p>
+                            <a href="event"><p>Gaming Indonesia</p></a>
                         </div>
                     </div>
                 </div>
@@ -237,7 +220,7 @@
                         <!-- Info -->
                         <div class="speaker-info">
                             <h5>Michael Fowler</h5>
-                            <p>Product Design</p>
+                            <a href="event"><p>Seminar Wirausaha</p></a>
                         </div>
                     </div>
                 </div>
@@ -259,7 +242,7 @@
                         <!-- Info -->
                         <div class="speaker-info">
                             <h5>Evelyn Stone</h5>
-                            <p>Photographer</p>
+                            <a href="event"><p>Photografi</p></a>
                         </div>
                     </div>
                 </div>
@@ -281,7 +264,7 @@
                         <!-- Info -->
                         <div class="speaker-info">
                             <h5>Susan Hopkins</h5>
-                            <p>UX Manager</p>
+                            <a href="event"><p>Balap Kuda</p></a>
                         </div>
                     </div>
                 </div>
@@ -303,7 +286,7 @@
                         <!-- Info -->
                         <div class="speaker-info">
                             <h5>Michael Fowler</h5>
-                            <p>Product Design</p>
+                            <a href="event"><p>Makanan Tradisional Bandung</p></a>
                         </div>
                     </div>
                 </div>
@@ -349,7 +332,7 @@
 
                             <!-- Contact Area -->
                             <div class="footer-contact-info">
-                                <p><i class="zmdi zmdi-map"></i> 184 Main Collins Street</p>
+                                <p><i class="zmdi zmdi-map"></i> UINSGD</p>
                                 <p><i class="zmdi zmdi-phone"></i> (226) 446 9371</p>
                                 <p><i class="zmdi zmdi-email"></i> confer@gmail.com</p>
                                 <p><i class="zmdi zmdi-globe"></i> www.confer.com</p>
@@ -367,8 +350,8 @@
                             <ul class="footer-nav">
                                 <li><a href="#">OSHA Compliance</a></li>
                                 <li><a href="#">Microsoft Excel Basics</a></li>
-                                <li><a href="#">Forum Speaker Series</a></li>
-                                <li><a href="#">Tedx Moscow Conference</a></li>
+                                <li><a href="#">Forum EO Series</a></li>
+                                <li><a href="#">Indonesia Conference</a></li>
                             </ul>
                         </div>
                     </div>
