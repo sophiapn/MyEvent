@@ -33,3 +33,7 @@ Route::get('/event', function () {
 Route::get('/bayar', function () {
     return view('bayar');
 });
+
+/*Route::post('/customers', 'CustomersController@index');*/
+
+Route::resource('/customers', 'CustomersController');

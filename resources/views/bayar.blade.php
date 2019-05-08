@@ -107,7 +107,8 @@
                             <p>Masukan data anda untuk membeli Tiket</p>
                         </div>
                         <div class="contact_form">
-                            <form action="mail.php" method="post">
+                            <form action="{{route('customers.store')}}" method="post">
+                            {{csrf_field()}}
                                 <div class="contact_input_area">
                                     <div class="row">
                                         <!-- Form Group -->
@@ -119,7 +120,7 @@
                                         <!-- Form Group -->
                                         <div class="col-12 col-lg-6">
                                             <div class="form-group">
-                                                <input type="text" class="form-control mb-30" name="name" id="name-2" placeholder="No Telp" required>
+                                                <input type="text" class="form-control mb-30" name="no_tlp" id="name-2" placeholder="No Telp" required>
                                             </div>
                                         </div>
                                         <!-- Form Group -->
@@ -131,15 +132,15 @@
                                         <!-- Form Group -->
                                         <div class="col-12 col-lg-6">
                                             <div class="form-group">
-                                                <input type="text" class="form-control mb-30" name="subject" id="subject" placeholder="Akun Bank">
+                                                <input type="text" class="form-control mb-30" name="akun_bank" id="subject" placeholder="Akun Bank">
                                             </div>
                                         </div>
                                         <!-- Form Group -->
-                                        <div class="col-12">
+                                        <!-- <div class="col-12">
                                             <div class="form-group">
                                                 <textarea name="message" class="form-control mb-30" id="message" cols="30" rows="6" placeholder="Kapan anda menghadiri event ini?" required></textarea>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <!-- Button -->
                                         <div class="col-12">
                                             <button type="submit" class="btn confer-btn">Pesan Tiket<i class="zmdi zmdi-long-arrow-right"></i></button>
