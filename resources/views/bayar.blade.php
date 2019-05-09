@@ -107,7 +107,7 @@
                             <p>Masukan data anda untuk membeli Tiket</p>
                         </div>
                         <div class="contact_form">
-                            <form action="{{route('customers.store')}}" method="post">
+                            <form action="{{route('bayar.store')}}" method="post">
                             {{csrf_field()}}
                                 <div class="contact_input_area">
                                     <div class="row">

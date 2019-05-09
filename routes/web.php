@@ -30,10 +30,7 @@ Route::get('/ticket', function () {
 Route::get('/event', function () {
     return view('event');
 });
-Route::get('/bayar', function () {
-    return view('bayar');
-});
 
 /*Route::post('/customers', 'CustomersController@index');*/
 
-Route::resource('/customers', 'CustomersController');
+Route::resource('/bayar', 'CustomersController');
