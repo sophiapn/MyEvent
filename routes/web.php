@@ -48,8 +48,5 @@ Route::get('/user_home', function () {
     return view('/user/home/base');
 });
 
-Route::resource('/bayar', 'CustomersController');
+Route::resource('/bayar', 'PembayaranController');
 
-Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
