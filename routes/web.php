@@ -19,7 +19,7 @@ Route::get('/about', function () {
     return view('about');
 });
 Route::get('/eo', function () {
-    return view('eo');
+    return view('eo/');
 });
 Route::get('/schedule', function () {
     return view('schedule');
@@ -30,9 +30,11 @@ Route::get('/ticket', function () {
 Route::get('/event', function () {
     return view('event');
 });
-Route::get('/single-blog', function () {
-    return view('singleblog');
+
+Route::get('/eo_home', function () {
+    return view('eo/eo_home');
 });
-Route::get('/contact', function () {
-    return view('contact');
-});
+
+/*Route::post('/customers', 'CustomersController@index');*/
+
+Route::resource('/bayar', 'CustomersController');

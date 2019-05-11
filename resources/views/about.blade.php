@@ -50,33 +50,13 @@
                         <div class="classynav">
                             <ul id="nav">
                                 <li class="active"><a href="/">Home</a></li>
-                                <li><a href="#">Pages</a>
-                                    <ul class="dropdown">
-                                        <li><a href="/">- Home</a></li>
-                                        <li><a href="about">- About Us</a></li>
-                                        <li><a href="eo">- Event Organizer</a></li>
-                                        <li><a href="schedule">- Schedule</a></li>
-                                        <li><a href="ticket">- Tickets</a></li>
-                                        <li><a href="event">- Event</a></li>
-                                        <li><a href="single-blog">- Single Blog</a></li>
-                                        <li><a href="contact">- Contact</a></li>
-                                        <li><a href="#">- Dropdown</a>
-                                            <ul class="dropdown">
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
+                                <li><a href="schedule">Schedule</a></li>
                                 <li><a href="eo">Event Organizer</a></li>
                                 <li><a href="event">Event</a></li>
-                                <li><a href="contact">Contact</a></li>
+                                <li><a href="about">About Us</a></li>
                             </ul>
 
                             <!-- Get Tickets Button -->
-                            <a href="#" class="btn confer-btn mt-3 mt-lg-0 ml-3 ml-lg-5">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
                         </div>
                         <!-- Nav End -->
                     </div>
@@ -219,159 +199,7 @@
     <!-- About Us And Countdown Area End -->
 
     <!-- Our Speakings Area Start -->
-    <section class="our-speaker-area section-padding-100-60">
-        <div class="container">
-            <div class="row">
-                <!-- Heading -->
-                <div class="col-12">
-                    <div class="section-heading-3 text-center wow fadeInUp" data-wow-delay="300ms">
-                        <p>Our EO</p>
-                        <h4>Who’s organizing</h4>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="assets/img/bg-img/4.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Albert Barnes</h5>
-                            <p>Founder</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="assets/img/bg-img/5.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Patricia Stanley</h5>
-                            <p>Product Lead</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="assets/img/bg-img/6.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Evelyn Stone</h5>
-                            <p>Photographer</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="assets/img/bg-img/7.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Evelyn Stone</h5>
-                            <p>Photographer</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="assets/img/bg-img/8.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Susan Hopkins</h5>
-                            <p>UX Manager</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="assets/img/bg-img/9.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Michael Fowler</h5>
-                            <p>Product Design</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12">
-                    <div class="more-speaker-btn text-center mt-20 mb-40 wow fadeInUp" data-wow-delay="300ms">
-                        <a class="btn confer-btn" href="#">View All EO <i class="zmdi zmdi-long-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+   
     <!-- Our Speakings Area End -->
 
     <!-- Our Gallery Area Start -->
@@ -434,88 +262,137 @@
                         <p>WHAT CLIENTS SAY</p>
                         <h4>Testimonials</h4>
                     </div>
-                </div>
-            </div>
+                    <div class="container">
+            <div class="row justify-content-center">
+                <!-- Single Post Details Area -->
+                <div class="col-12 col-lg-8 col-xl-9">
+                    <div class="pr-lg-4 mb-100">
+                        <div class="comment-area mb-80">
+                            <!-- Comments Area -->
+                            <div class="comment_area clearfix">
+                                <h4 class="mb-30">Comments</h4>
 
-            <div class="row">
-                <div class="col-12">
-                    <!-- Client Slider -->
-                    <div class="client-area owl-carousel">
-                        <!-- Single Client Slide -->
-                        <div class="single-client-content bg-boxshadow wow fadeInUp" data-wow-delay="300ms">
-                            <div class="single-client-text about-page">
-                                <p>Jir lah</p>
-                                <!-- Thumb and info -->
-                                <div class="single-client-thumb-info d-flex align-items-center">
-                                    <!-- Thumb -->
-                                    <div class="single-client-thumb">
-                                        <img src="assets/img/bg-img/15.jpg" alt="">
-                                    </div>
-                                    <!-- Info -->
-                                    <div class="client-info">
-                                        <h6>Maria Hernandez</h6>
-                                        <p>UX Manager</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Icon -->
-                            <div class="client-icon">
-                                <i class="zmdi zmdi-quote"></i>
+                                <ol>
+                                    <!-- Single Comment Area -->
+                                    <li class="single_comment_area">
+                                        <!-- Comment Content -->
+                                        <div class="comment-content d-flex">
+                                            <!-- Comment Author -->
+                                            <div class="comment-author">
+                                                <img src="assets/img/bg-img/58.jpg" alt="author">
+                                            </div>
+                                            <!-- Comment Meta -->
+                                            <div class="comment-meta">
+                                                <div class="comment-meta-data">
+                                                    <a href="#">Beverly Price</a>
+                                                    <span><i class="zmdi zmdi-calendar-check"></i> June 28, 2019 at 3:18 pm</span>
+                                                </div>
+                                                <p>Saya kasih bintang satu dulu, kalau bagus nanti saya kurangi</p>
+                                                <a href="#" class="reply"><i class="zmdi zmdi-mail-reply"></i> Reply</a>
+                                            </div>
+                                        </div>
+
+                                        <ol class="children">
+                                            <li class="single_comment_area">
+                                                <!-- Comment Content -->
+                                                <div class="comment-content d-flex">
+                                                    <!-- Comment Author -->
+                                                    <div class="comment-author">
+                                                        <img src="assets/img/bg-img/57.jpg" alt="author">
+                                                    </div>
+                                                    <!-- Comment Meta -->
+                                                    <div class="comment-meta">
+                                                        <div class="comment-meta-data">
+                                                            <a href="#">Jacqueline Watkins</a>
+                                                            <span><i class="zmdi zmdi-calendar-check"></i> June 28, 2019 at 3:18 pm</span>
+                                                        </div>
+                                                        <p>Bacoet</p>
+                                                        <a href="#" class="reply"><i class="zmdi zmdi-mail-reply"></i> Reply</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ol>
+                                    </li>
+
+                                    <!-- Single Comment Area -->
+                                    <li class="single_comment_area">
+                                        <!-- Comment Content -->
+                                        <div class="comment-content d-flex">
+                                            <!-- Comment Author -->
+                                            <div class="comment-author">
+                                                <img src="assets/img/bg-img/56.jpg" alt="author">
+                                            </div>
+                                            <!-- Comment Meta -->
+                                            <div class="comment-meta">
+                                                <div class="comment-meta-data">
+                                                    <a href="#">Lori Gonzales</a>
+                                                    <span><i class="zmdi zmdi-calendar-check"></i> June 28, 2019 at 3:18 pm</span>
+                                                </div>
+                                                <p>TOLONG!!!</p>
+                                                <a href="#" class="reply"><i class="zmdi zmdi-mail-reply"></i> Reply</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ol>
                             </div>
                         </div>
 
-                        <!-- Single Client Slide -->
-                        <div class="single-client-content bg-boxshadow wow fadeInUp" data-wow-delay="300ms">
-                            <div class="single-client-text about-page">
-                                <p>Teuing kudu ngeusian naon</p>
-                                <!-- Thumb and info -->
-                                <div class="single-client-thumb-info d-flex align-items-center">
-                                    <!-- Thumb -->
-                                    <div class="single-client-thumb">
-                                        <img src="assets/img/bg-img/16.jpg" alt="">
+                        <!-- Leave A Reply -->
+                        <div class="confer-leave-a-reply-form clearfix">
+                            <h4 class="mb-30">Leave A Comment</h4>
+                            
+                            <!-- Leave A Reply -->
+                            <div class="contact_form">
+                                <form action="#" method="post">
+                                    <div class="contact_input_area">
+                                        <div class="row">
+                                            <!-- Form Group -->
+                                            <div class="col-12 col-lg-6">
+                                                <div class="form-group">
+                                                    <input type="text" class="form-control mb-30" name="name" id="name" placeholder="Your Name" required>
+                                                </div>
+                                            </div>
+                                            <!-- Form Group -->
+                                            <div class="col-12 col-lg-6">
+                                                <div class="form-group">
+                                                    <input type="text" class="form-control mb-30" name="name" id="name-2" placeholder="Last Name" required>
+                                                </div>
+                                            </div>
+                                            <!-- Form Group -->
+                                            <div class="col-12 col-lg-6">
+                                                <div class="form-group">
+                                                    <input type="email" class="form-control mb-30" name="email" id="email" placeholder="E-mail" required>
+                                                </div>
+                                            </div>
+                                            <!-- Form Group -->
+                                            <div class="col-12 col-lg-6">
+                                                <div class="form-group">
+                                                    <input type="text" class="form-control mb-30" name="subject" id="subject" placeholder="Your Number">
+                                                </div>
+                                            </div>
+                                            <!-- Form Group -->
+                                            <div class="col-12">
+                                                <div class="form-group">
+                                                    <textarea name="message" class="form-control mb-30" id="message" cols="30" rows="6" placeholder="Message" required></textarea>
+                                                </div>
+                                            </div>
+                                            <!-- Button -->
+                                            <div class="col-12">
+                                                <button type="submit" class="btn confer-btn">Send Message <i class="zmdi zmdi-long-arrow-right"></i></button>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <!-- Info -->
-                                    <div class="client-info">
-                                        <h6>Jacqueline Myers</h6>
-                                        <p>UX Manager</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Icon -->
-                            <div class="client-icon">
-                                <i class="zmdi zmdi-quote"></i>
-                            </div>
-                        </div>
-
-                        <!-- Single Client Slide -->
-                        <div class="single-client-content bg-boxshadow wow fadeInUp" data-wow-delay="300ms">
-                            <div class="single-client-text about-page">
-                                <p>Zzz</p>
-                                <!-- Thumb and info -->
-                                <div class="single-client-thumb-info d-flex align-items-center">
-                                    <!-- Thumb -->
-                                    <div class="single-client-thumb">
-                                        <img src="assets/img/bg-img/15.jpg" alt="">
-                                    </div>
-                                    <!-- Info -->
-                                    <div class="client-info">
-                                        <h6>Maria Hernandez</h6>
-                                        <p>UX Manager</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Icon -->
-                            <div class="client-icon">
-                                <i class="zmdi zmdi-quote"></i>
+                                </form>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <!-- Our Client Area -->
-
     <!-- Footer Area Start -->
     <footer class="footer-area bg-img bg-overlay-2 section-padding-100-0">
         <!-- Main Footer Area -->
@@ -547,7 +424,7 @@
 
                             <!-- Contact Area -->
                             <div class="footer-contact-info">
-                                <p><i class="zmdi zmdi-map"></i> 184 Main Collins Street</p>
+                                <p><i class="zmdi zmdi-map"></i> UINSGD</p>
                                 <p><i class="zmdi zmdi-phone"></i> (226) 446 9371</p>
                                 <p><i class="zmdi zmdi-email"></i> confer@gmail.com</p>
                                 <p><i class="zmdi zmdi-globe"></i> www.confer.com</p>
@@ -565,8 +442,8 @@
                             <ul class="footer-nav">
                                 <li><a href="#">OSHA Compliance</a></li>
                                 <li><a href="#">Microsoft Excel Basics</a></li>
-                                <li><a href="#">Forum Speaker Series</a></li>
-                                <li><a href="#">Tedx Moscow Conference</a></li>
+                                <li><a href="#">Forum EO Series</a></li>
+                                <li><a href="#">Indonesia Conference</a></li>
                             </ul>
                         </div>
                     </div>

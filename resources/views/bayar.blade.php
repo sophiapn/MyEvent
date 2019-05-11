@@ -50,33 +50,14 @@
                         <div class="classynav">
                             <ul id="nav">
                                 <li class="active"><a href="/">Home</a></li>
-                                <li><a href="#">Pages</a>
-                                    <ul class="dropdown">
-                                        <li><a href="/">- Home</a></li>
-                                        <li><a href="about">- About Us</a></li>
-                                        <li><a href="eo">- Event Organizer</a></li>
-                                        <li><a href="schedule">- Schedule</a></li>
-                                        <li><a href="ticket">- Tickets</a></li>
-                                        <li><a href="event">- Event</a></li>
-                                        <li><a href="single-blog">- Single Blog</a></li>
-                                        <li><a href="contact">- Contact</a></li>
-                                        <li><a href="#">- Dropdown</a>
-                                            <ul class="dropdown">
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
+                                <li><a href="schedule">Schedule</a></li>
                                 <li><a href="eo">Event Organizer</a></li>
                                 <li><a href="event">Event</a></li>
-                                <li><a href="contact">Contact</a></li>
+                                <li><a href="about">About Us</a></li>
                             </ul>
 
                             <!-- Get Tickets Button -->
-                            <a href="#" class="btn confer-btn mt-3 mt-lg-0 ml-3 ml-lg-5">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
+                          
                         </div>
                         <!-- Nav End -->
                     </div>
@@ -92,11 +73,11 @@
             <div class="row h-100 align-items-center">
                 <div class="col-12">
                     <div class="breadcrumb-content">
-                        <h2 class="page-title">Contact</h2>
+                        <h2 class="page-title">Bayar</h2>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="/">Home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">Contact</li>
+                                <li class="breadcrumb-item active" aria-current="page">Bayar</li>
                             </ol>
                         </nav>
                     </div>
@@ -122,23 +103,24 @@
                     <div class="contact_from_area mb-100 clearfix">
                         <!-- Contact Heading -->
                         <div class="contact-heading">
-                            <h4>Contact us</h4>
-                            <p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae</p>
+                            <h4>Bayar Tiket</h4>
+                            <p>Masukan data anda untuk membeli Tiket</p>
                         </div>
                         <div class="contact_form">
-                            <form action="mail.php" method="post">
+                            <form action="{{route('bayar.store')}}" method="post">
+                            {{csrf_field()}}
                                 <div class="contact_input_area">
                                     <div class="row">
                                         <!-- Form Group -->
                                         <div class="col-12 col-lg-6">
                                             <div class="form-group">
-                                                <input type="text" class="form-control mb-30" name="name" id="name" placeholder="Your Name" required>
+                                                <input type="text" class="form-control mb-30" name="name" id="name" placeholder="Nama Lengkap" required>
                                             </div>
                                         </div>
                                         <!-- Form Group -->
                                         <div class="col-12 col-lg-6">
                                             <div class="form-group">
-                                                <input type="text" class="form-control mb-30" name="name" id="name-2" placeholder="Last Name" required>
+                                                <input type="text" class="form-control mb-30" name="no_tlp" id="name-2" placeholder="No Telp" required>
                                             </div>
                                         </div>
                                         <!-- Form Group -->
@@ -150,18 +132,18 @@
                                         <!-- Form Group -->
                                         <div class="col-12 col-lg-6">
                                             <div class="form-group">
-                                                <input type="text" class="form-control mb-30" name="subject" id="subject" placeholder="Your Number">
+                                                <input type="text" class="form-control mb-30" name="akun_bank" id="subject" placeholder="Akun Bank">
                                             </div>
                                         </div>
                                         <!-- Form Group -->
-                                        <div class="col-12">
+                                        <!-- <div class="col-12">
                                             <div class="form-group">
-                                                <textarea name="message" class="form-control mb-30" id="message" cols="30" rows="6" placeholder="Message" required></textarea>
+                                                <textarea name="message" class="form-control mb-30" id="message" cols="30" rows="6" placeholder="Kapan anda menghadiri event ini?" required></textarea>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <!-- Button -->
                                         <div class="col-12">
-                                            <button type="submit" class="btn confer-btn">Send Message <i class="zmdi zmdi-long-arrow-right"></i></button>
+                                            <button type="submit" class="btn confer-btn">Pesan Tiket<i class="zmdi zmdi-long-arrow-right"></i></button>
                                         </div>
                                     </div>
                                 </div>
@@ -192,7 +174,7 @@
                                 <div class="contact--info-icon">
                                     <img src="assets/img/core-img/icon-5.png" alt="">
                                 </div>
-                                <h5>184 Main Collins Street</h5>
+                                <h5>UINSGD</h5>
                             </div>
                         </div>
 
@@ -203,7 +185,7 @@
                                 <div class="contact--info-icon">
                                     <img src="assets/img/core-img/icon-6.png" alt="">
                                 </div>
-                                <h5>(226) 446 9371</h5>
+                                <h5>(022) 446 9371</h5>
                             </div>
                         </div>
 
@@ -266,7 +248,7 @@
 
                             <!-- Contact Area -->
                             <div class="footer-contact-info">
-                                <p><i class="zmdi zmdi-map"></i> 184 Main Collins Street</p>
+                                <p><i class="zmdi zmdi-map"></i> UINSGD</p>
                                 <p><i class="zmdi zmdi-phone"></i> (226) 446 9371</p>
                                 <p><i class="zmdi zmdi-email"></i> confer@gmail.com</p>
                                 <p><i class="zmdi zmdi-globe"></i> www.confer.com</p>
@@ -284,8 +266,8 @@
                             <ul class="footer-nav">
                                 <li><a href="#">OSHA Compliance</a></li>
                                 <li><a href="#">Microsoft Excel Basics</a></li>
-                                <li><a href="#">Forum Speaker Series</a></li>
-                                <li><a href="#">Tedx Moscow Conference</a></li>
+                                <li><a href="#">Forum EO Series</a></li>
+                                <li><a href="#">Indonesia Conference</a></li>
                             </ul>
                         </div>
                     </div>

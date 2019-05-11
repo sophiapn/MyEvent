@@ -50,33 +50,14 @@
                         <div class="classynav">
                             <ul id="nav">
                                 <li class="active"><a href="/">Home</a></li>
-                                <li><a href="#">Pages</a>
-                                    <ul class="dropdown">
-                                        <li><a href="/">- Home</a></li>
-                                        <li><a href="about">- About Us</a></li>
-                                        <li><a href="eo">- Event Organizer</a></li>
-                                        <li><a href="schedule">- Schedule</a></li>
-                                        <li><a href="ticket">- Tickets</a></li>
-                                        <li><a href="event">- Event</a></li>
-                                        <li><a href="single-blog">- Single Blog</a></li>
-                                        <li><a href="contact">- Contact</a></li>
-                                        <li><a href="#">- Dropdown</a>
-                                            <ul class="dropdown">
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
+                                <li><a href="schedule">Schedule</a></li>
                                 <li><a href="eo">Event Organizer</a></li>
                                 <li><a href="event">Event</a></li>
-                                <li><a href="contact">Contact</a></li>
+                                <li><a href="about">About Us</a></li>
                             </ul>
 
                             <!-- Get Tickets Button -->
-                            <a href="#" class="btn confer-btn mt-3 mt-lg-0 ml-3 ml-lg-5">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
+                            <a href="ticket" class="btn confer-btn mt-3 mt-lg-0 ml-3 ml-lg-5">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
                         </div>
                         <!-- Nav End -->
                     </div>
@@ -118,148 +99,16 @@
                             <img src="assets/img/bg-img/18.png" alt="">
                         </div>
                         <div class="single-blog-text text-center">
-                            <a class="blog-title" href="#">Street Food Convention</a>
-                            <!-- Post Meta -->
-                            <div class="post-meta">
-                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i> January 14, 2019</a>
-                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i> Laura Green</a>
-                            </div>
-                            <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
-                        </div>
-                        <div class="blog-btn">
-                            <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Blog Area -->
-                <div class="col-12 col-md-6 col-xl-4">
-                    <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Single blog Thumb -->
-                        <div class="single-blog-thumb">
-                            <img src="assets/img/bg-img/19.jpg" alt="">
-                        </div>
-                        <div class="single-blog-text text-center">
-                            <a class="blog-title" href="#">Tedx Moscow Conference</a>
-                            <!-- Post Meta -->
-                            <div class="post-meta">
-                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>January 14, 2019</a>
-                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
-                            </div>
-                            <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
-                        </div>
-                        <div class="blog-btn">
-                            <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Blog Area -->
-                <div class="col-12 col-md-6 col-xl-4">
-                    <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Single blog Thumb -->
-                        <div class="single-blog-thumb">
-                            <img src="assets/img/bg-img/20.png" alt="">
-                        </div>
-                        <div class="single-blog-text text-center">
                             <a class="blog-title" href="#">Festival Karier SMK – April 2019﻿</a>
                             <!-- Post Meta -->
                             <div class="post-meta">
                                 <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>14 April 2019</a>
-                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
-                            </div>
-                            <p>Memperingati Hari Pendidikan Nasional TopKarir</p>
-                        </div>
-                        <div class="blog-btn">
-                            <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-                
-                <!-- Single Blog Area -->
-                <div class="col-12 col-md-6 col-xl-4">
-                    <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Single blog Thumb -->
-                        <div class="single-blog-thumb">
-                            <img src="assets/img/bg-img/18.png" alt="">
-                        </div>
-                        <div class="single-blog-text text-center">
-                            <a class="blog-title" href="#">TERAA RUN10K Series JAKARTA I</a>
-                            <!-- Post Meta -->
-                            <div class="post-meta">
-                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>07 Juli 2019</a>
                                 <a class="post-author" href="#"><i class="zmdi zmdi-account"></i> Laura Green</a>
                             </div>
-                            <p>Gerakan langkahmu, Pacu prestasimu</p>
-                        </div>
-                        <div class="blog-btn">
-                            <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Blog Area -->
-                <div class="col-12 col-md-6 col-xl-4">
-                    <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Single blog Thumb -->
-                        <div class="single-blog-thumb">
-                            <img src="assets/img/bg-img/19.jpg" alt="">
-                        </div>
-                        <div class="single-blog-text text-center">
-                            <a class="blog-title" href="#">Lego Speed Building competition</a>
-                            <!-- Post Meta -->
-                            <div class="post-meta">
-                               <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>04 Mei 2019</a>
-                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
-                            </div>
-                            <p>Tunjukan robot kreatifmu dan dapatkan hadiah Sphero mini, lego dan piala</p>
-                        </div>
-                        <div class="blog-btn">
-                            <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Blog Area -->
-                <div class="col-12 col-md-6 col-xl-4">
-                    <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Single blog Thumb -->
-                        <div class="single-blog-thumb">
-                            <img src="assets/img/bg-img/20.png" alt="">
-                        </div>
-                        <div class="single-blog-text text-center">
-                            <a class="blog-title" href="#">Festival Karier SMK – April 2019﻿</a>
-                            <!-- Post Meta -->
-                            <div class="post-meta">
-                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>14 April 2019</a>
-                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
-                            </div>
                             <p>Memperingati Hari Pendidikan Nasional TopKarir</p>
                         </div>
                         <div class="blog-btn">
-                            <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-                
-                <!-- Single Blog Area -->
-                <div class="col-12 col-md-6 col-xl-4">
-                    <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Single blog Thumb -->
-                        <div class="single-blog-thumb">
-                            <img src="assets/img/bg-img/18.png" alt="">
-                        </div>
-                        <div class="single-blog-text text-center">
-                            <a class="blog-title" href="#">Lego Speed Building competition</a>
-                            <!-- Post Meta -->
-                            <div class="post-meta">
-                               <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>04 Mei 2019</a>
-                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
-                            </div>
-                            <p>Tunjukan robot kreatifmu dan dapatkan hadiah Sphero mini, lego dan piala</p>
-                        </div>
-                        <div class="blog-btn">
-                            <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
+                            <a href="ticket"><i class="zmdi zmdi-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -276,12 +125,12 @@
                             <!-- Post Meta -->
                             <div class="post-meta">
                                 <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>07 Juli 2019</a>
-                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i> Laura Green</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Pink</a>
                             </div>
                             <p>Gerakan langkahmu, Pacu prestasimu</p>
                         </div>
                         <div class="blog-btn">
-                            <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
+                            <a href="ticket"><i class="zmdi zmdi-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -294,16 +143,152 @@
                             <img src="assets/img/bg-img/20.png" alt="">
                         </div>
                         <div class="single-blog-text text-center">
-                            <a class="blog-title" href="#">Los Angeles Institute</a>
+                            <a class="blog-title" href="#">Lego Speed Building competition</a>
                             <!-- Post Meta -->
                             <div class="post-meta">
-                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>January 14, 2019</a>
-                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
+                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>04 Mei 2019</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Polkadot</a>
                             </div>
-                            <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
+                            <p>Tunjukan robot kreatifmu dan dapatkan hadiahnya</p>
                         </div>
                         <div class="blog-btn">
-                            <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
+                            <a href="ticket"><i class="zmdi zmdi-long-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Single Blog Area -->
+               <div class="col-12 col-md-6 col-xl-4">
+                    <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
+                        <!-- Single blog Thumb -->
+                        <div class="single-blog-thumb">
+                            <img src="assets/img/bg-img/18.png" alt="">
+                        </div>
+                        <div class="single-blog-text text-center">
+                            <a class="blog-title" href="#">Festival Karier SMK – April 2019﻿</a>
+                            <!-- Post Meta -->
+                            <div class="post-meta">
+                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>14 April 2019</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i> Laura Green</a>
+                            </div>
+                            <p>Memperingati Hari Pendidikan Nasional TopKarir</p>
+                        </div>
+                        <div class="blog-btn">
+                            <a href="ticket"><i class="zmdi zmdi-long-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Blog Area -->
+                  <div class="col-12 col-md-6 col-xl-4">
+                    <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
+                        <!-- Single blog Thumb -->
+                        <div class="single-blog-thumb">
+                            <img src="assets/img/bg-img/19.jpg" alt="">
+                        </div>
+                        <div class="single-blog-text text-center">
+                            <a class="blog-title" href="#">TERAA RUN10K Series JAKARTA I</a>
+                            <!-- Post Meta -->
+                            <div class="post-meta">
+                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>07 Juli 2019</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Pink</a>
+                            </div>
+                            <p>Gerakan langkahmu, Pacu prestasimu</p>
+                        </div>
+                        <div class="blog-btn">
+                            <a href="ticket"><i class="zmdi zmdi-long-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Blog Area -->
+                <div class="col-12 col-md-6 col-xl-4">
+                    <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
+                        <!-- Single blog Thumb -->
+                        <div class="single-blog-thumb">
+                            <img src="assets/img/bg-img/20.png" alt="">
+                        </div>
+                        <div class="single-blog-text text-center">
+                            <a class="blog-title" href="#">Lego Speed Building competition</a>
+                            <!-- Post Meta -->
+                            <div class="post-meta">
+                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>04 Mei 2019</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Polkadot</a>
+                            </div>
+                            <p>Tunjukan robot kreatifmu dan dapatkan hadiahnya</p>
+                        </div>
+                        <div class="blog-btn">
+                            <a href="ticket"><i class="zmdi zmdi-long-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Single Blog Area -->
+                <div class="our-blog-area section-padding-100">
+        <div class="container">
+            <div class="row">
+                <!-- Single Blog Area -->
+                <div class="col-12 col-md-6 col-xl-4">
+                    <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
+                        <!-- Single blog Thumb -->
+                        <div class="single-blog-thumb">
+                            <img src="assets/img/bg-img/18.png" alt="">
+                        </div>
+                        <div class="single-blog-text text-center">
+                            <a class="blog-title" href="#">Festival Karier SMK – April 2019﻿</a>
+                            <!-- Post Meta -->
+                            <div class="post-meta">
+                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>14 April 2019</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i> Laura Green</a>
+                            </div>
+                            <p>Memperingati Hari Pendidikan Nasional TopKarir</p>
+                        </div>
+                        <div class="blog-btn">
+                            <a href="ticket"><i class="zmdi zmdi-long-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Blog Area -->
+                <div class="col-12 col-md-6 col-xl-4">
+                    <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
+                        <!-- Single blog Thumb -->
+                        <div class="single-blog-thumb">
+                            <img src="assets/img/bg-img/19.jpg" alt="">
+                        </div>
+                        <div class="single-blog-text text-center">
+                            <a class="blog-title" href="#">TERAA RUN10K Series JAKARTA I</a>
+                            <!-- Post Meta -->
+                            <div class="post-meta">
+                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>07 Juli 2019</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Pink</a>
+                            </div>
+                            <p>Gerakan langkahmu, Pacu prestasimu</p>
+                        </div>
+                        <div class="blog-btn">
+                            <a href="ticket"><i class="zmdi zmdi-long-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Blog Area -->
+                <div class="col-12 col-md-6 col-xl-4">
+                    <div class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
+                        <!-- Single blog Thumb -->
+                        <div class="single-blog-thumb">
+                            <img src="assets/img/bg-img/20.png" alt="">
+                        </div>
+                        <div class="single-blog-text text-center">
+                            <a class="blog-title" href="#">Lego Speed Building competition</a>
+                            <!-- Post Meta -->
+                            <div class="post-meta">
+                                <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>04 Mei 2019</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Polkadot</a>
+                            </div>
+                            <p>Tunjukan robot kreatifmu dan dapatkan hadiahnya</p>
+                        </div>
+                        <div class="blog-btn">
+                            <a href="ticket"><i class="zmdi zmdi-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -351,7 +336,7 @@
 
                             <!-- Contact Area -->
                             <div class="footer-contact-info">
-                                <p><i class="zmdi zmdi-map"></i> 184 Main Collins Street</p>
+                                <p><i class="zmdi zmdi-map"></i> UINSGD</p>
                                 <p><i class="zmdi zmdi-phone"></i> (226) 446 9371</p>
                                 <p><i class="zmdi zmdi-email"></i> confer@gmail.com</p>
                                 <p><i class="zmdi zmdi-globe"></i> www.confer.com</p>
@@ -369,8 +354,8 @@
                             <ul class="footer-nav">
                                 <li><a href="#">OSHA Compliance</a></li>
                                 <li><a href="#">Microsoft Excel Basics</a></li>
-                                <li><a href="#">Forum Speaker Series</a></li>
-                                <li><a href="#">Tedx Moscow Conference</a></li>
+                                <li><a href="#">Forum EO Series</a></li>
+                                <li><a href="#">Indonesia Conference</a></li>
                             </ul>
                         </div>
                     </div>
