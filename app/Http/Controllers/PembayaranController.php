@@ -4,6 +4,9 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Pembayaran;
+use App\Http\Controllers\Controller;
+use Illuminate\Support\Facades\Session;
+use Illuminate\Support\Facades\Hash;
 
 class PembayaranController extends Controller
 {
@@ -15,7 +18,13 @@ class PembayaranController extends Controller
     public function index()
     {
         //
-        return view('bayar');
+        if(!session::get('login')){
+            return redirect('login')->with('alert', 'You are not loged in!');
+        }
+        else{
+            $data = Pembayaran::where('id_user', Session::get('id'))->first();
+            return view('bayar')->with($data);
+        }
     }
 
     /**
@@ -26,7 +35,13 @@ class PembayaranController extends Controller
     public function create()
     {
         //
-        return view('bayar');
+        if(!session::get('login')){
+            return redirect('login')->with('alert', 'You are not loged in!');
+        }
+        else{
+            $data = Pembayaran::where('id_user', Session::get('id'))->first();
+            return view('bayar')->with($data);
+        }
 
     }
 
@@ -40,10 +55,11 @@ class PembayaranController extends Controller
     {
         //
         $data = new Pembayaran();
-        $data->no_tlp = $request->no_tlp;
-        $data->akun_bank = $request->akun_bank;
+        $data->id_user = Session::get('id');
+        $data->no_tlp = $request->get('no_tlp');
+        $data->akun_bank = $request->get('akun_bank');
         $data->save();
-        return view('bayar');
+        return redirect('tiket');
     }
 
     /**

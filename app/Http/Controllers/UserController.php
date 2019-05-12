@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Users;
+use App\Pembayaran;
+use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Session;
 
@@ -21,7 +23,7 @@ class UserController extends Controller
             return redirect('login')->with('alert','Kamu harus login dulu');
         }
         else{
-            return view('index');
+            return view('bayar');
         }
     }
 
@@ -40,7 +42,7 @@ class UserController extends Controller
                 Session::put('name',$data->name);
                 Session::put('email',$data->email);
                 Session::put('login',TRUE);
-                return redirect('index');
+                return redirect('bayar');
             }
             else{
                 return redirect('login')->with('alert','Password atau Email, Salah !');

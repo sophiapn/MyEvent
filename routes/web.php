@@ -48,10 +48,14 @@ Route::get('/user_home', function () {
     return view('/user/home/base');
 });
 
+Route::get('/tiket', function () {
+    return view('tiket');
+});
+
 Route::resource('/bayar', 'PembayaranController');
 
 /** User */
-Route::get('/index', 'UserController@index');
+Route::get('/bayar', 'UserController@index');
 Route::get('/login', 'UserController@login');
 Route::post('/loginPost', 'UserController@loginPost');
 Route::get('/register', 'UserController@register');
