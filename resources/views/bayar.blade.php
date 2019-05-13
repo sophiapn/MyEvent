@@ -107,14 +107,16 @@
                             <p>Masukan data anda untuk membeli Tiket</p>
                         </div>
                         <div class="contact_form">
-                            <form action="{{route('bayar.store')}}" method="post">
+                            <form action="{{route('bayar.store')}}" method="post" 
+                            
+                            target="_blank">
                             {{csrf_field()}}
                                 <div class="contact_input_area">
                                     <div class="row">
                                         <!-- Form Group -->
                                         <div class="col-12 col-lg-6">
                                             <div class="form-group">
-                                                <input type="text" class="form-control mb-30" name="name" id="name" placeholder="Nama Lengkap" required>
+                                                <input type="text" class="form-control mb-30" name="name" id="name" value="{{Session::get('name')}}" disabled>
                                             </div>
                                         </div>
                                         <!-- Form Group -->
@@ -126,7 +128,7 @@
                                         <!-- Form Group -->
                                         <div class="col-12 col-lg-6">
                                             <div class="form-group">
-                                                <input type="email" class="form-control mb-30" name="email" id="email" placeholder="E-mail" required>
+                                                <input type="email" class="form-control mb-30" name="email" id="email" value="{{Session::get('email')}}" disabled>
                                             </div>
                                         </div>
                                         <!-- Form Group -->

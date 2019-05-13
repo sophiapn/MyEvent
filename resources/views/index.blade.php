@@ -53,7 +53,8 @@
                                 <li><a href="schedule">Schedule</a></li>
                                 <li><a href="eo">Event Organizer</a></li>
                                 <li><a href="event">Event</a></li>
-                                <li><a href="about">About Us</a></li>
+                                <li><a href="about">About</a></li>
+                                <li><a href="/logout">Logout</a></li>
                             </ul>
 
                             <!-- Get Tickets Button -->

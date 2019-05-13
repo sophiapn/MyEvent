@@ -12,14 +12,19 @@
 */
 
 
+Route::get('/welcome', function () {
+    return view('welcome');
+});
+
 Route::get('/', function () {
     return view('index');
 });
+
 Route::get('/about', function () {
     return view('about');
 });
 Route::get('/eo', function () {
-    return view('eo/');
+    return view('eo');
 });
 Route::get('/schedule', function () {
     return view('schedule');
@@ -35,6 +40,24 @@ Route::get('/eo_home', function () {
     return view('eo/eo_home');
 });
 
-/*Route::post('/customers', 'CustomersController@index');*/
+Route::get('/eo_base', function () {
+    return view('eo/eo_base');
+});
 
-Route::resource('/bayar', 'CustomersController');
+Route::get('/user_home', function () {
+    return view('/user/home/base');
+});
+
+Route::get('/tiket', function () {
+    return view('tiket');
+});
+
+Route::resource('/bayar', 'PembayaranController');
+
+/** User */
+Route::get('/bayar', 'UserController@index');
+Route::get('/login', 'UserController@login');
+Route::post('/loginPost', 'UserController@loginPost');
+Route::get('/register', 'UserController@register');
+Route::post('/registerPost', 'UserController@registerPost');
+Route::get('/logout', 'UserController@logout');
