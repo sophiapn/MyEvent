@@ -39,6 +39,7 @@ class UserController extends Controller
         $data = Users::where('email',$email)->first();
         if($data){ //apakah email tersebut ada atau tidak
             if(Hash::check($password,$data->password)){
+                Session::put('id',$data->id);
                 Session::put('name',$data->name);
                 Session::put('email',$data->email);
                 Session::put('login',TRUE);

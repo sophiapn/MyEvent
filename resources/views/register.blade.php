@@ -10,7 +10,7 @@
     <meta name="keywords" content="temuin">
 
     <!-- Title Page-->
-    <title>Register | Temuin</title>
+    <title>Register | Confer</title>
 
     <!-- Fontfaces CSS-->
     <link href="{{ url('/assets/admin/css/font-face.css') }}" rel="stylesheet" media="all">
