@@ -78,8 +78,8 @@
                         <!-- Welcome Text -->
                         <div class="col-12">
                             <div class="welcome-text text-right">
-                                <h2 data-animation="fadeInUp" data-delay="300ms">Event <br>Conference</h2>
-                                <h6 data-animation="fadeInUp" data-delay="500ms">Menyediakan Event Indonesia</h6>
+                                <h2 data-animation="fadeInUp" data-delay="300ms">My Event</h2>
+                                <h6 data-animation="fadeInUp" data-delay="500ms">give solution for your boring day</h6>
                                 <div class="hero-btn-group" data-animation="fadeInUp" data-delay="700ms">
                                     <a href="event" class="btn confer-btn">More Information <i class="zmdi zmdi-long-arrow-right"></i></a>
                                 </div>
@@ -105,9 +105,9 @@
                 <!-- About Content -->
                 <div class="col-12 col-md-6">
                     <div class="about-content-text mb-80">
-                        <h6 class="wow fadeInUp" data-wow-delay="300ms">About Event Organizer</h6>
+                        <h6 class="wow fadeInUp" data-wow-delay="300ms">We are Hiring you!</h6>
                         <h3 class="wow fadeInUp" data-wow-delay="300ms">Welcome to the Event</h3>
-                        <p class="wow fadeInUp" data-wow-delay="300ms">Event Organizer adalah pengelola suatu kegiatan (Pengorganisir Acara). Setiap kegiatan yang di selenggarakan bertujuan untuk memperoleh keuntungan di kedua belah pihak, baik penyelenggara maupun yang hadir pada saat kegiatan berlangsung.</p>
+                        <p class="wow fadeInUp" data-wow-delay="300ms">If you are interested to be a part of our event. and want to be Event organizer just click this column below.</p>
                         <a href="#" class="btn confer-btn mt-50 wow fadeInUp" data-wow-delay="300ms">Interested <i class="zmdi zmdi-long-arrow-right"></i></a> <!--Sambung ke daftar EO-->
                     </div>
                 </div>
@@ -126,225 +126,7 @@
     </section>
     <!-- About Us And Countdown Area End -->
 
-    <!-- Our Speakings Area Start -->
-    <section class="our-speaker-area bg-img bg-gradient-overlay section-padding-100-60" style="background-image: url(assets/img/bg-img/3.jpg);">
-        <div class="container">
-            <div class="row">
-                <!-- Heading -->
-                <div class="col-12">
-                    <div class="section-heading text-center wow fadeInUp" data-wow-delay="300ms">
-                        <p>Our EO</p>
-                        <h4>Who’s organizing</h4>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-md-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="assets/img/bg-img/4.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Albert Barnes</h5>
-                            <a href="event"><p>Festival Karier</p></a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-md-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="assets/img/bg-img/5.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Patricia Stanley</h5>
-                            <a href="event"><p>TERAA RUN10K</p></a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-md-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="assets/img/bg-img/6.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Evelyn Stone</h5>
-                            <a href="event"><p>Lego Speed Build</p></a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-md-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="assets/img/bg-img/7.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Evelyn Stone</h5>
-                            <a href="event"><p>Konser Black Pink</p></a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-md-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="assets/img/bg-img/8.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Susan Hopkins</h5>
-                            <a href="event"><p>Gaming Indonesia</p></a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-md-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="assets/img/bg-img/9.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Michael Fowler</h5>
-                            <a href="event"><p>Balap Kuda</p></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12">
-                    <div class="more-speaker-btn text-center mt-20 mb-40 wow fadeInUp" data-wow-delay="300ms">
-                        <a class="btn confer-btn-white" href="eo">view all EO <i class="zmdi zmdi-long-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Our Speakings Area End -->
-
-    <!-- Our Schedule Area Start -->
     
-    <!-- Our Schedule Area End -->
-
-    <!-- Our Ticket Pricing Table Area Start -->
-    
-    <!-- Our Ticket Pricing Table Area End -->
-
-    <!-- Our Sponsor And Client Area Start -->
-    <section class="our-sponsor-client-area section-padding-100">
-        <div class="container">
-            <div class="row">
-                <!-- Heading -->
-                <div class="col-12">
-                    <div class="section-heading-2 text-center wow fadeInUp" data-wow-delay="300ms">
-                        <p>Partners &amp; Sponsors</p>
-                        <h4>OFFICIAL SPONSOR</h4>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-12">
-                    <!-- Our Sponsor area -->
-                    <div class="our-sponsor-area d-flex flex-wrap">
-                        <!-- Single Sponsor -->
-                        <div class="single-sponsor wow fadeInUp" data-wow-delay="300ms">
-                            <a href="#"><img src="assets/img/core-img/p-1.png" alt=""></a>
-                        </div>
-                        <!-- Single Sponsor -->
-                        <div class="single-sponsor wow fadeInUp" data-wow-delay="300ms">
-                            <a href="#"><img src="assets/img/core-img/p-2.png" alt=""></a>
-                        </div>
-                        <!-- Single Sponsor -->
-                        <div class="single-sponsor wow fadeInUp" data-wow-delay="300ms">
-                            <a href="#"><img src="assets/img/core-img/p-3.png" alt=""></a>
-                        </div>
-                        <!-- Single Sponsor -->
-                        <div class="single-sponsor wow fadeInUp" data-wow-delay="300ms">
-                            <a href="#"><img src="assets/img/core-img/p-4.png" alt=""></a>
-                        </div>
-                        <!-- Single Sponsor -->
-                        <div class="single-sponsor wow fadeInUp" data-wow-delay="300ms">
-                            <a href="#"><img src="assets/img/core-img/p-5.png" alt=""></a>
-                        </div>
-                        <!-- Single Sponsor -->
-                        <div class="single-sponsor wow fadeInUp" data-wow-delay="300ms">
-                            <a href="#"><img src="assets/img/core-img/p-6.png" alt=""></a>
-                        </div>
-                        <!-- Single Sponsor -->
-                        <div class="single-sponsor wow fadeInUp" data-wow-delay="300ms">
-                            <a href="#"><img src="assets/img/core-img/p-7.png" alt=""></a>
-                        </div>
-                        <!-- Single Sponsor -->
-                        <div class="single-sponsor wow fadeInUp" data-wow-delay="300ms">
-                            <a href="#"><img src="assets/img/core-img/p-8.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Our Sponsor And Client Area End -->
 
     <!-- Our Blog Area Start -->
     <section class="our-blog-area bg-img bg-gradient-overlay section-padding-100-60" style="background-image: url(assets/img/bg-img/17.jpg);">
